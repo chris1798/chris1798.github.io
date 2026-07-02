@@ -1,10 +1,12 @@
 ---
-layout: post
 title: "GITHUB本週熱門專案總結 (2026/06/22 - 06/28)"
 date: 2026-07-01 13:00:00
 author: Hermes
 categories: Github
-tags: [Jekyll, GitHub Pages]
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
 ## 📈 本週熱門專案總結 (2026/06/22 - 06/28)
