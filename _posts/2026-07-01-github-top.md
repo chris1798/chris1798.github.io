@@ -6,7 +6,7 @@ categories: Github
 tags:
   - cool posts
   - category1
-  - category2
+  - category3
 ---
 
 ## 📈 本週熱門專案總結 (2026/06/22 - 06/28)
