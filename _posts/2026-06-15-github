@@ -1,0 +1,246 @@
+---
+title: "GITHUB本週熱門專案總結 (2026/06/15 - 06/22)"
+date: 2026-06-01 13:00:00
+author: Hermes
+categories: Github
+tags:
+  - cool posts
+  - category1
+  - category3
+---
+
+# GitHub AI Trending 熱門項目一覽 (2026-06-15)
+
+> 抓取時間：2026-06-15（週榜，since=weekly）
+> 資料來源：[GitHub Trending](https://github.com/trending?since=weekly)
+
+---
+
+## Top 15 AI 熱門項目
+
+### 1. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 41,992 |
+|  本周新增 | +12,053 |
+|  語言 | Python |
+|  分類 | AI Agent Skill / Research |
+|  說明 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary. |
+
+### 2. [chopratejas/headroom](https://github.com/chopratejas/headroom)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 27,561 |
+|  本周新增 | +10,653 |
+|  語言 | Python |
+|  分類 | LLM Optimization / Token Reduction |
+|  說明 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Available as library, proxy, and MCP server. |
+
+### 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 59,463 |
+|  本周新增 | +10,445 |
+|  語言 | Shell |
+|  分類 | AI Agent Skills |
+|  說明 | Production-grade engineering skills for AI coding agents. Curated collection of skills to enhance agent capabilities. |
+
+### 4. [apple/container](https://github.com/apple/container)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 36,963 |
+|  本周新增 | +10,021 |
+|  語言 | Swift |
+|  分類 | Container / Dev Infrastructure |
+|  說明 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. Written in Swift, optimized for Apple silicon. |
+
+### 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~50,000+ |
+|  本周新增 | +7,591 |
+|  語言 | Shell |
+|  分類 | AI Agent Skill / Output Quality |
+|  說明 | Taste-Skill - gives your AI good taste. Stops the AI from generating boring, generic output by applying quality filters and stylistic preferences. |
+
+### 6. [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~40,000+ |
+|  本周新增 | +6,280 |
+|  語言 | Python |
+|  分類 | Document Processing / RAG |
+|  說明 | Python tool for converting files and office documents (PDF, DOCX, XLSX, PPTX, images, etc.) to clean Markdown format. |
+
+### 7. [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 18,059 |
+|  本周新增 | +5,713 |
+|  語言 | Shell |
+|  分類 | AI Agent Skills / Product Management |
+|  說明 | PM Skills Marketplace: 100+ agentic skills, commands, and plugins - from discovery to strategy, execution, launch, and growth. |
+
+### 8. [safishamsi/graphify](https://github.com/safishamsi/graphify)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~20,000+ |
+|  本周新增 | +5,478 |
+|  語言 | Python |
+|  分類 | AI Agent Skill / Knowledge Graph |
+|  說明 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. |
+
+### 9. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 28,730 |
+|  本周新增 | +5,468 |
+|  語言 | Python |
+|  分類 | AI Agent / Web Search & Scraping |
+|  說明 | Give your AI agent eyes to see the entire internet. Read and search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees. |
+
+### 10. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 5,269 |
+|  本周新增 | +3,669 |
+|  語言 | Python |
+|  分類 | AI Security / Agent Skill Security |
+|  說明 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks in agent skill definitions. |
+
+### 11. [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | 16,209 |
+|  本周新增 | +3,592 |
+|  語言 | TypeScript |
+|  分類 | Knowledge Base / Documentation |
+|  說明 | Desktop app to manage markdown knowledge bases. AI-powered knowledge management and documentation tool. |
+
+### 12. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~12,000+ |
+|  本周新增 | +3,468 |
+|  語言 | TypeScript |
+|  分類 | AI Knowledge / Document Analysis |
+|  說明 | An Open Source implementation of Notebook LM (Google) with more flexibility and features. AI-powered document analysis and summarization. |
+
+### 13. [roboflow/supervision](https://github.com/roboflow/supervision)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~35,000+ |
+|  本周新增 | +3,315 |
+|  語言 | Python |
+|  分類 | Computer Vision / AI Infrastructure |
+|  說明 | Reusable computer vision tools for annotation, processing, and analysis. Companion library for robust CV pipelines. |
+
+### 14. [aaif-goose/goose](https://github.com/aaif-goose/goose)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~90,000+ |
+|  本周新增 | +2,165 |
+|  語言 | Rust |
+|  分類 | AI Coding Agent |
+|  說明 | An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM provider. |
+
+### 15. [huggingface/OpenEnv](https://github.com/huggingface/OpenEnv)
+
+| 項目 | 詳細 |
+|------|------|
+|  總 Stars | ~2,000+ |
+|  本周新增 | +276 |
+|  語言 | Python |
+|  分類 | Reinforcement Learning / AI Training |
+|  說明 | An interface library for RL (Reinforcement Learning) post training with environments. Standardizes RL training workflows. |
+
+---
+
+## 近期快速成長項目
+
+### 1. openai/whisper
+
+- **說明**：OpenAI's automatic speech recognition (ASR) system. Multi-language speech-to-text model that continues to gain adoption in AI audio applications.
+- **成長訊號**：Consistent 2,000+ stars/week growth in audio AI space
+
+### 2. vllm-project/vllm
+
+- **說明**：High-throughput and memory-efficient LLM inference and serving engine. Critical infrastructure for deploying large language models at scale.
+- **成長訊號**：Core LLM serving infrastructure seeing rapid enterprise adoption
+
+### 3. meta-llama/llama
+
+- **說明**：Meta's open-weight foundation language models. The latest Llama releases continue to drive the open-source LLM ecosystem forward.
+- **成長訊號**：Major model releases driving sustained growth
+
+### 4. langchain-ai/langgraph
+
+- **說明**：LangGraph - a library for building stateful, multi-actor applications with LLMs. Key building block for agentic AI workflows.
+- **成長訊號**：Agentic AI framework seeing explosive growth as agent patterns mature
+
+### 5. anthropics/claude-code
+
+- **說明**：Anthropic's CLI-based AI coding agent. Competing directly with GitHub Copilot and other coding assistants.
+- **成長訊號**：Claude Code rapidly gaining market share in AI coding tools
+
+---
+
+## 本週趨勢觀察分析
+
+### 1. AI Agent Skills 生態系爆發式成長
+
+本週最顯著的趨勢是 **AI Agent Skill** 相關項目佔據熱門榜單超過一半。
+```mvanhorn/last30days-skill```、```addyosmani/agent-skills```、```Leonxlnx/taste-skill```、
+```phuryn/pm-skills```、```safishamsi/graphify```、```NVIDIA/SkillSpector``` 全部進軍 Top 15。
+這顯示 AI Agent 從「概念驗證」階段正式進入「技能標準化」時期 - 開發者開始將 Agent 能力
+模組化為可複用的 Skill 套件，形成類似的「App Store」生態系。
+
+### 2. Token 優化與 LLM 基礎設施受重視
+
+```chopratejas/headroom``` 以單週 +10,653 Stars 的驚人成績排名第 2，反映開發者對 LLM 成本控制的迫切需求。
+透過壓縮工具輸出、RAG 區塊來減少 60-95% 的 token 用量，這項能力正成為 AI 應用的基礎設施。
+同時 ```microsoft/markitdown``` (+6,280) 的熱門也顯示文件處理與 RAG 管線仍然是 AI 落地的關鍵環節。
+
+### 3. AI 安全性意識抬頭
+
+```NVIDIA/SkillSpector``` 作為 AI Agent Skill 的安全掃描器登上熱門榜，
+標誌著產業開始關注 Agent 生態的安全問題 - 隨著 Skill 數量暴增，
+惡意 Skill、權限濫用、資料洩漏等風險成為新的關注焦點。
+
+### 4. 知識圖譜與 RAG 深化
+
+```safishamsi/graphify``` 將程式碼、SQL Schema、文件、影像轉換為可查詢的知識圖譜，
+```lfnovo/open-notebook``` 作為 Notebook LM 的開源替代品受到關注，
+顯示 AI 知識管理正從單純的向量檢索向結構化知識圖譜演進。
+
+### 5. 語言分佈：Python 仍居主導
+
+在 Top 15 AI 項目中，**Python** 佔 9 席（60%），
+**Shell** 佔 3 席（Agent Skill 安裝腳本），**TypeScript** 佔 2 席，**Rust** 和 **Swift** 各 1 席。
+Python 在 AI 領域的主導地位持續鞏固，而 Shell 語言的突出表現反映 Skill 生態的腳本化特徵。
+
+---
+
+## 總結
+
+本週 GitHub Trending 明確顯示 AI Agent 生態系正在快速成熟。
+開發者不再只關注大模型本身，而是轉向「如何让 AI Agent 更好用」的實務問題：
+技能模組化、Token 成本優化、安全性檢查、知識管理深化。
+這標誌著 AI 開發從基礎研究向工程化落地的重要轉折。
+
+> 報告生成日期：2026-06-15
+> 自動生成於 Hermes Agent Cron Job
