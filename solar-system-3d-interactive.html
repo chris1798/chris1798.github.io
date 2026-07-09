@@ -271,18 +271,18 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script>
         // 場景初始化
-        const scene = new THREE.Scene();
-        const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 10000);
-        const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
-        renderer.setSize(window.innerWidth, window.innerHeight);
-        renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-        renderer.shadowMap.enabled = true;
-        renderer.shadowMap.type = THREE.PCFSoftShadowMap;
-        document.getElementById('canvas-container').appendChild(renderer.domElement);
+                const scene = new THREE.Scene();
+                const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 10000);
+                const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+                renderer.setSize(window.innerWidth, window.innerHeight);
+                renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+                renderer.shadowMap.enabled = true;
+                renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+                document.getElementById('canvas-container').appendChild(renderer.domElement);
 
-        // 光照
-        const ambientLight = new THREE.AmbientLight(0x333355, 0.4);
-        scene.add(ambientLight);
+                // 相機位置 - 調整為更適合的視角
+                camera.position.set(0, 400, 600);
+                camera.lookAt(0, 0, 0);
         const sunLight = new THREE.DirectionalLight(0xffffff, 1.5);
         sunLight.position.set(500, 300, 500);
         sunLight.castShadow = true;
@@ -665,8 +665,13 @@
             if (keys['a']) camera.position.x = Math.max(-600, camera.position.x - 2);
             if (keys['d']) camera.position.x = Math.min(600, camera.position.x + 2);
 
-            // 縮放
-            camera.position.multiplyScalar(zoomScale);
+            // 縮放 - 只調整距離
+            const currentDist = Math.sqrt(camera.position.x**2 + camera.position.z**2);
+            camera.position.set(
+                camera.position.x * zoomScale / currentDist,
+                camera.position.y * zoomScale,
+                camera.position.z * zoomScale / currentDist
+            );
 
             // 行星標籤
             if (labelsVisible) {
