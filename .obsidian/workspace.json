@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-10-local-ai-agent-models-comparison.md",
+                "file": "_posts/2026-07-15-github-trending-weekly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-10-local-ai-agent-models-comparison"
+              "title": "2026-07-15-github-trending-weekly"
             }
           }
         ]
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72bf71969946c466",
+  "active": "b889d133456b1064",
   "lastOpenFiles": [
+    "_posts/2026-07-15-litellm-vs-omniroute-comparison.md",
+    "_posts/2026-07-10-local-ai-agent-models-comparison.md",
     "_posts/2026-07-15-github-trending-weekly.md",
     "_posts/2026-07-07-github-trending-repositories-weekly-july-2026.md",
-    "_posts/2026-07-10-local-ai-agent-models-comparison.md",
     "_posts/2026-07-14-github-weekly-trending.md",
     "_posts/2026-07-14-litellm-alternatives-comparison.md",
     "solar-system-3d-interactive.html",
