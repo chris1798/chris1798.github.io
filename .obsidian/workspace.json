@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-07-github-trending-repositories-weekly-july-2026.md",
+                "file": "_posts/2026-07-10-local-ai-agent-models-comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-07-github-trending-repositories-weekly-july-2026"
+              "title": "2026-07-10-local-ai-agent-models-comparison"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "99983be420bb8591",
   "lastOpenFiles": [
+    "_posts/2026-07-07-github-trending-repositories-weekly-july-2026.md",
     "_posts/2026-07-10-local-ai-agent-models-comparison.md",
     "_posts/2026-07-14-github-weekly-trending.md",
     "_posts/2026-07-14-litellm-alternatives-comparison.md",
@@ -206,7 +207,6 @@
     "_posts/2026-07-07-mattpocock-skills-analysis.md",
     "_posts/2026-07-07-grill-me-skill-analysis.md",
     "_posts/2012-08-14-blog-post-1.md",
-    "_posts/2026-07-07-github-trending-repositories-weekly-july-2026.md",
     "_posts/2026-07-07-hermes-browser-extension-analysis.md",
     "_posts/hermes-browser-extension-analysis.md",
     "hermes-browser-extension-analysis.md",
