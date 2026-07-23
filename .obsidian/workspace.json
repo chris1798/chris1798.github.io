@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-20-everything-claude-code-analysis.md",
+                "file": "_posts/2026-07-23-huggingface-weekly-trending.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-20-everything-claude-code-analysis"
+              "title": "2026-07-23-huggingface-weekly-trending"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "99983be420bb8591",
   "lastOpenFiles": [
+    "_posts/2026-07-20-everything-claude-code-analysis.md",
+    "_posts/2026-07-23-huggingface-weekly-trending.md",
     "_posts/2026-07-23-awesome-llm-apps-analysis.md",
     "_posts/2026-07-22-crawl4ai-analysis.md",
     "_posts/2026-07-16-powerchip-6770-daily-analysis.md",
-    "_posts/2026-07-20-everything-claude-code-analysis.md",
     "_posts/2025-07-18-github-trending-weekly.md",
     "_posts/2025-07-18-ghost-downloader-analysis.md",
     "_posts/2026-07-17-api-mega-list-analysis.md",
@@ -221,7 +222,6 @@
     "hermes-browser-extension-analysis.md",
     "_posts/2026-07-06-github-weekly-trending.md",
     "_posts/2026-07-01-github-top.md",
-    "_posts/2026-06-15-github.md",
-    "_posts/2015-08-14-blog-post-4.md"
+    "_posts/2026-06-15-github.md"
   ]
 }
