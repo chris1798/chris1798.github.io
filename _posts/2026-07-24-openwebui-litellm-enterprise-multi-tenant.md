@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Open WebUI + LiteLLM 企業級多租戶部署指南：整合、權限與部門化模型管理"
 date: 2026-07-24
 description: 使用 Open WebUI 作為前端、LiteLLM 作為代理層，搭建企業內部多人使用的 LLM 平台，並按部門隔離模型權限與費用。
