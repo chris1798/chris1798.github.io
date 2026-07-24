@@ -196,6 +196,7 @@
   },
   "active": "99983be420bb8591",
   "lastOpenFiles": [
+    "_posts/2026-07-24-bifrost-ai-gateway-analysis.md",
     "_posts/2026-07-24-openwebui-litellm-enterprise-multi-tenant.md",
     "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
     "_posts/2026-07-20-everything-claude-code-analysis.md",
@@ -221,7 +222,6 @@
     "_posts/2012-08-14-blog-post-1.md",
     "_posts/2026-07-07-hermes-browser-extension-analysis.md",
     "_posts/hermes-browser-extension-analysis.md",
-    "hermes-browser-extension-analysis.md",
-    "_posts/2026-07-06-github-weekly-trending.md"
+    "hermes-browser-extension-analysis.md"
   ]
 }
