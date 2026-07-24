@@ -1,9 +1,14 @@
 ---
-layout: post
-title: "本週 GitHub Trending 熱門項目分析（2025/07）"
+title: 本週 GitHub Trending 熱門項目分析（2025/07）
 date: 2025-07-18
-categories: [開源專案, 週報]
-tags: [GitHub Trending, AI, 開源, 工具推薦]
+categories:
+  - 開源專案
+  - 週報
+tags:
+  - GitHub Trending
+  - AI
+  - 開源
+  - 工具推薦
 ---
 
 ## 本週 GitHub Trending 熱門項目分析（2025/07）
