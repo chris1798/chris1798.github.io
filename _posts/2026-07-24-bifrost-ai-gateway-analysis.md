@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "Bifrost AI Gateway 分析：高性能源碼 AI 代理層"
+title: Bifrost AI Gateway 分析：高性能源碼 AI 代理層
 date: 2026-07-24
 description: 分析 maximhq/bifrost 專案，一款主打極致效能的企業級 AI Gateway，支援 23+ provider、自動故障轉移、語意快取與多租戶治理。
-tags: [AI, AI Gateway, Bifrost, LiteLLM, Infrastructure]
+tags:
+  - AI
+  - AI Gateway
+  - Bifrost
+  - LiteLLM
+  - Infrastructure
 ---
 
 # Bifrost AI Gateway 分析

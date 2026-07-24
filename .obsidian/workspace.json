@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-23-huggingface-weekly-trending.md",
+                "file": "_posts/2025-07-18-github-trending-weekly.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-23-huggingface-weekly-trending"
+              "title": "2025-07-18-github-trending-weekly"
             }
           }
         ]
@@ -196,32 +196,32 @@
   },
   "active": "99983be420bb8591",
   "lastOpenFiles": [
-    "_posts/2026-07-23-grill-me-skill-analysis.md",
-    "_posts/2026-07-24-omniroute-litellm-bifrost-integration-architecture.md",
-    "_posts/2026-07-24-bifrost-ai-gateway-analysis.md",
-    "_posts/2026-07-24-openwebui-litellm-enterprise-multi-tenant.md",
-    "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
-    "_posts/2026-07-20-everything-claude-code-analysis.md",
-    "_posts/2026-07-23-huggingface-weekly-trending.md",
-    "_posts/2026-07-23-awesome-llm-apps-analysis.md",
-    "_posts/2026-07-22-crawl4ai-analysis.md",
-    "_posts/2026-07-16-powerchip-6770-daily-analysis.md",
-    "_posts/2025-07-18-github-trending-weekly.md",
-    "_posts/2025-07-18-ghost-downloader-analysis.md",
-    "_posts/2026-07-17-api-mega-list-analysis.md",
-    "_posts/2026-07-15-litellm-vs-omniroute-comparison.md",
-    "_posts/2026-07-15-github-trending-weekly.md",
-    "_posts/2026-07-10-local-ai-agent-models-comparison.md",
+    "_posts/2026-06-15-github.md",
+    "_posts/2026-07-01-github-top.md",
+    "_posts/2026-07-06-agency-agents 專案分析.md",
+    "_posts/2026-07-06-github-weekly-trending.md",
     "_posts/2026-07-07-github-trending-repositories-weekly-july-2026.md",
+    "_posts/2026-07-07-grill-me-skill-analysis.md",
+    "_posts/2026-07-07-hermes-browser-extension-analysis.md",
+    "_posts/2026-07-07-mattpocock-skills-analysis.md",
+    "_posts/2026-07-08-ai-canvaspro-功能介紹.md",
+    "_posts/2026-07-09-github-trending-this-week.md",
+    "_posts/2026-07-10-local-ai-agent-models-comparison.md",
     "_posts/2026-07-14-github-weekly-trending.md",
     "_posts/2026-07-14-litellm-alternatives-comparison.md",
-    "solar-system-3d-interactive.html",
-    "_posts/2026-07-08-ai-canvaspro-功能介紹.md",
-    "_posts/2026-07-09-pmc-6770-weekly-analysis.md",
-    "_posts/2026-07-09-github-trending-this-week.md",
-    "_posts/2026-07-07-mattpocock-skills-analysis.md",
-    "_posts/2026-07-07-grill-me-skill-analysis.md",
-    "_posts/2012-08-14-blog-post-1.md",
-    "_posts/2026-07-07-hermes-browser-extension-analysis.md"
+    "_posts/2026-07-15-github-trending-weekly.md",
+    "_posts/2026-07-15-litellm-vs-omniroute-comparison.md",
+    "_posts/2026-07-16-powerchip-6770-daily-analysis.md",
+    "_posts/2026-07-17-api-mega-list-analysis.md",
+    "_posts/2026-07-20-everything-claude-code-analysis.md",
+    "_posts/2026-07-22-crawl4ai-analysis.md",
+    "_posts/2026-07-23-awesome-llm-apps-analysis.md",
+    "_posts/2026-07-23-grill-me-skill-analysis.md",
+    "_posts/2026-07-23-huggingface-weekly-trending.md",
+    "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
+    "_posts/2026-07-24-bifrost-ai-gateway-analysis.md",
+    "_posts/2026-07-24-omniroute-litellm-bifrost-integration-architecture.md",
+    "_posts/2026-07-24-openwebui-litellm-enterprise-multi-tenant.md",
+    "solar-system-3d-interactive.html"
   ]
 }

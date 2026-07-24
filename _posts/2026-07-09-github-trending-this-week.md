@@ -1,10 +1,17 @@
 ---
-layout: post
-title: "本週 GitHub 熱門項目分析 (2026-07-06 ~ 07-12)"
+title: 本週 GitHub 熱門項目分析 (2026-07-06 ~ 07-12)
 date: 2026-07-09 18:00:00 +0800
-categories: [github, trending, ai, open-source]
-tags: [github-trending, ai-agents, open-source, security]
-description: "2026 年本週 GitHub Trending 熱門項目完整分析：AI 代理、滲透測試、求职框架、設計系統、前端代理等 15 個重磅項目"
+categories:
+  - github
+  - trending
+  - ai
+  - open-source
+tags:
+  - github-trending
+  - ai-agents
+  - open-source
+  - security
+description: 2026 年本週 GitHub Trending 熱門項目完整分析：AI 代理、滲透測試、求职框架、設計系統、前端代理等 15 個重磅項目
 ---
 
 ## 本週趨勢總覽

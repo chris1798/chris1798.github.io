@@ -1,9 +1,14 @@
 ---
-layout: post
-title: "grill-me Skill 分析：AI 代理的嚴苛訪談模式"
+title: grill-me Skill 分析：AI 代理的嚴苛訪談模式
 date: 2026-07-23
 category: AI-Skills
-tags: [grill-me, grilling, ai-agents, skills, claude, mattpocock]
+tags:
+  - grill-me
+  - grilling
+  - ai-agents
+  - skills
+  - claude
+  - mattpocock
 ---
 
 ## 原始出處

@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "AI Canvas Pro — 基於節點的 AI 多模態畫布編輯器 功能介紹"
+title: AI Canvas Pro — 基於節點的 AI 多模態畫布編輯器 功能介紹
 date: 2026-07-08 12:00:00 +0800
 categories: tools ai
 ---

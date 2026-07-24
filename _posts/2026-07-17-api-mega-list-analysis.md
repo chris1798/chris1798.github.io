@@ -1,9 +1,17 @@
 ---
-layout: post
-title: "API Mega List 深度分析 — 11,860 個 API 的開發者百科全書"
+title: API Mega List 深度分析 — 11,860 個 API 的開發者百科全書
 date: 2026-07-17
-categories: [技術分析, API, 開源專案]
-tags: [API, GitHub, Apify, 開發者工具, AI, 爬蟲]
+categories:
+  - 技術分析
+  - API
+  - 開源專案
+tags:
+  - API
+  - GitHub
+  - Apify
+  - 開發者工具
+  - AI
+  - 爬蟲
 ---
 
 ## 專案總覽

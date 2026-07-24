@@ -1,9 +1,15 @@
 ---
-layout: post
-title: "OmniRoute + LiteLLM + Bifrost 整合架構規劃：打造企業級 AI Gateway"
+title: OmniRoute + LiteLLM + Bifrost 整合架構規劃：打造企業級 AI Gateway
 date: 2026-07-24
 description: 分析 OmniRoute、LiteLLM、Bifrost 三個 AI Gateway 項目的功能定位，並規劃三者整合的架構，打造高可用、多租戶、極速、智能路由的企業 AI 平台。
-tags: [AI, AI Gateway, OmniRoute, LiteLLM, Bifrost, Architecture, Enterprise]
+tags:
+  - AI
+  - AI Gateway
+  - OmniRoute
+  - LiteLLM
+  - Bifrost
+  - Architecture
+  - Enterprise
 ---
 
 # OmniRoute + LiteLLM + Bifrost 整合架構規劃

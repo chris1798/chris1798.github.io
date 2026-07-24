@@ -1,9 +1,15 @@
 ---
-layout: post
-title: "Everything Claude Code 深度分析 — Claude Code 最完整的配置工具包"
+title: Everything Claude Code 深度分析 — Claude Code 最完整的配置工具包
 date: 2026-07-20
-categories: [AI Tools, Open Source, Claude Code]
-tags: [Claude Code, AI Agent, MCP, 開源專案]
+categories:
+  - AI Tools
+  - Open Source
+  - Claude Code
+tags:
+  - Claude Code
+  - AI Agent
+  - MCP
+  - 開源專案
 ---
 
 # Everything Claude Code 深度分析
