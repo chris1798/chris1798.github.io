@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72bf71969946c466",
+  "active": "b889d133456b1064",
   "lastOpenFiles": [
+    "_posts/2026-07-23-grill-me-skill-analysis.md",
     "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
     "_posts/2026-07-24-bifrost-ai-gateway-analysis.md",
     "_posts/2026-07-24-omniroute-litellm-bifrost-integration-architecture.md",
@@ -217,7 +218,6 @@
     "_posts/2026-07-17-api-mega-list-analysis.md",
     "_posts/2026-07-20-everything-claude-code-analysis.md",
     "_posts/2026-07-22-crawl4ai-analysis.md",
-    "_posts/2026-07-23-awesome-llm-apps-analysis.md",
     "solar-system-3d-interactive.html"
   ]
 }
