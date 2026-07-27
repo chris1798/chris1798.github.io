@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-28-google-vibe-coding-day1.md",
+                "file": "_posts/2026-07-28-github-vibe-coding-tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-28-google-vibe-coding-day1"
+              "title": "2026-07-28-github-vibe-coding-tutorial"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-07-28-google-vibe-coding-day1.md",
     "_posts/2026-07-28-github-vibe-coding-tutorial.md",
     "_posts/2026-07-27-google-ai-day2-day3-mcp-a2a-skills.md",
-    "_posts/2026-07-28-google-vibe-coding-day1.md",
     "_posts/2025-07-27-litellm-mcp-openwebui-sop.md",
     "_posts/2026-07-23-grill-me-skill-analysis.md",
     "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
