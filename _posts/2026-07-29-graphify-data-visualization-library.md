@@ -9,7 +9,7 @@ tags: [flutter, graphify, echarts, data-visualization, open-source]
 
 Graphify 是一個強大的 Flutter 套件，作為 Apache ECharts 的橋接器，讓開發者能夠在 Flutter 應用程式中建立互動式圖表與資料視覺化。本文將完整介紹 Graphify 的所有功能特性。
 
-![Graphify Banner](https://raw.githubusercontent.com/warioddly/graphify/main/README/README.assets/graphify_banner.png)
+![Graphify Banner](/assets/images/graphify/banner.png)
 
 ## 基本資訊
 
@@ -28,7 +28,7 @@ Graphify 是一個強大的 Flutter 套件，作為 Apache ECharts 的橋接器�
 Graphify 支援多種高階圖表類型，包括：
 
 ### 1. WebGL 3D 圖表
-![3D Chart](https://raw.githubusercontent.com/warioddly/graphify/main/README/README.assets/bar_3d_chart.gif)
+![3D Chart](/assets/images/graphify/bar_3d_chart.gif)
 
 支援三維立體圖表，適合展示複雜的三維數據關係。
 
@@ -36,7 +36,7 @@ Graphify 支援多種高階圖表類型，包括：
 互動式折線圖，支援多系列、座標軸自訂、tooltip 顯示等功能。
 
 ### 3. 長條圖 (Bar Chart)
-![Bar Chart](https://raw.githubusercontent.com/warioddly/graphify/main/README/README.assets/graph_webkit_dep.gif)
+![Bar Chart](/assets/images/graphify/graph_webkit_dep.gif)
 
 支援水平/垂直長條圖、堆疊長條圖、雙軸長條圖等。
 

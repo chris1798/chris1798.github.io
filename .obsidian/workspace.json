@@ -196,6 +196,13 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/graphify/all.gif",
+    "assets/images/graphify/candle_stick_brush.gif",
+    "assets/images/graphify/graph_webkit_dep.gif",
+    "assets/images/graphify/bar_3d_chart.gif",
+    "assets/images/graphify/banner.png",
+    "assets/images/graphify",
+    "assets/images",
     "_posts/2026-07-29-graphify-data-visualization-library.md",
     "_posts/2024-07-29-graphify-data-visualization-library.md",
     "_posts/2026-07-28-goose-open-source-ai-agent.md",
@@ -221,7 +228,6 @@
     "_posts/2026-07-07-mattpocock-skills-analysis.md",
     "_posts/2026-07-08-ai-canvaspro-功能介紹.md",
     "_posts/2026-07-09-github-trending-this-week.md",
-    "_posts/2026-07-10-local-ai-agent-models-comparison.md",
     "solar-system-3d-interactive.html"
   ]
 }
