@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-28-github-vibe-coding-tutorial.md",
+                "file": "_posts/2026-07-29-github-top10-trending-weekly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-28-github-vibe-coding-tutorial"
+              "title": "2026-07-29-github-top10-trending-weekly"
             }
           }
         ]
@@ -196,11 +196,18 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
-    "assets/images/graphify/all.gif",
-    "assets/images/graphify/candle_stick_brush.gif",
-    "assets/images/graphify/graph_webkit_dep.gif",
-    "assets/images/graphify/bar_3d_chart.gif",
-    "assets/images/graphify/banner.png",
+    "_posts/2026-07-28-github-vibe-coding-tutorial.md",
+    "images/instatic.svg",
+    "images/open-code-review.svg",
+    "images/kronos.svg",
+    "images/ai-agent-book.svg",
+    "images/i-have-adhd.svg",
+    "images/trending-summary.svg",
+    "images/instatic-header.svg",
+    "images/open-code-review-header.svg",
+    "images/kronos-header.svg",
+    "images/ai-agent-book-header.svg",
+    "_posts/2026-07-29-github-top10-trending-weekly.md",
     "assets/images/graphify",
     "assets/images",
     "_posts/2026-07-29-graphify-data-visualization-library.md",
@@ -208,7 +215,6 @@
     "_posts/2026-07-28-goose-open-source-ai-agent.md",
     "_posts/2026-07-28-anything-llm-feature-overview.md",
     "_posts/2026-07-27-google-ai-day2-day3-mcp-a2a-skills.md",
-    "_posts/2026-07-28-github-vibe-coding-tutorial.md",
     "_posts/2026-07-28-google-vibe-coding-day1.md",
     "_posts/2025-07-27-litellm-mcp-openwebui-sop.md",
     "_posts/2026-07-23-grill-me-skill-analysis.md",
@@ -227,7 +233,6 @@
     "_posts/2026-07-07-hermes-browser-extension-analysis.md",
     "_posts/2026-07-07-mattpocock-skills-analysis.md",
     "_posts/2026-07-08-ai-canvaspro-功能介紹.md",
-    "_posts/2026-07-09-github-trending-this-week.md",
     "solar-system-3d-interactive.html"
   ]
 }
