@@ -19,9 +19,10 @@ Taste Skill 是一個開源的 **Agent Skills** 集合，專門用來提升 AI �
 | **作者** | [Leon Lin](https://github.com/Leonxlnx) |
 | **授權** | MIT License |
 | **最新狀態** | v2 (experimental) |
-| **GitHub 星星** | 持續增長中 ⭐ |
+| **GitHub Stars** | 持續增長中 ⭐ |
 | **官方網站** | [tasteskill.dev](https://www.tasteskill.dev) |
 | **相容性** | Codex, Cursor, Claude Code, ChatGPT |
+| **安裝方式** | `npx skills add https://github.com/Leonxlnx/taste-skill` |
 
 ---
 
@@ -247,19 +248,128 @@ v2 是一個實質性重寫，保留了 v1 的旋鈕驅動哲學，並增加了�
 
 ---
 
-## 支援的專案
+## 專案結構
+
+```
+taste-skill/
+├── .claude-plugin/          # Claude Code 插件配置
+├── .github/                 # GitHub Actions 工作流
+├── skills/
+│   ├── taste-skill/         # v2 預設技能
+│   ├── taste-skill-v1/      # v1 保留版本
+│   ├── gpt-tasteskill/      # GPT/Codex 嚴格版
+│   ├── image-to-code-skill/ # 圖片優先管道
+│   ├── redesign-skill/      # 重設計審計
+│   ├── soft-skill/          # 高級視覺設計
+│   ├── output-skill/        # 完整輸出強制
+│   ├── minimalist-skill/    # 極簡主義 UI
+│   ├── brutalist-skill/     # 粗獷主義 UI
+│   ├── stitch-skill/        # Google Stitch 相容
+│   ├── imagegen-frontend-web/     # 網站圖片生成
+│   ├── imagegen-frontend-mobile/  # 手機圖片生成
+│   └── brandkit/            # 品牌套件生成
+├── examples/                # 範例圖片
+│   ├── floria-top.webp
+│   ├── floria-bottom.webp
+│   └── floria-full.webp
+├── research/                # 設計研究文檔
+├── scripts/                 # 自動化腳本
+├── assets/                  # 圖片資源
+│   ├── readme-banner.webp
+│   ├── taste-skill-logo.png
+│   ├── taste-skill-logo.webp
+│   ├── readme-cta-tasteskill.svg
+│   ├── vercel-oss-program-badge.svg
+│   ├── sponsors/            # 贊助商標誌
+│   └── readme-buttons/      # README 按鈕
+├── CHANGELOG.md             # 版本變更記錄
+├── LICENSE                  # MIT License
+├── skill.sh                 # 安裝腳本
+├── llms.txt                 # LLM 友好的文檔
+└── README.md                # 主要說明文件
+```
+
+---
+
+## 範例專案
+
+以下是使用 taste-skill 創建的範例專案：
+
+![Floria Full](/assets/images/taste-skill/examples/floria-full.webp)
+
+![Floria Top](/assets/images/taste-skill/examples/floria-top.webp)
+
+![Floria Bottom](/assets/images/taste-skill/examples/floria-bottom.webp)
+
+這些範例展示了 taste-skill 能夠生成的：
+- 現代化、有品味的排版
+- 精心設計的間距和佈局
+- 流暢的動畫和互動效果
+- 一致的設計語言
+
+---
+
+## 贊助商
 
 ### 官方贊助商
 
-![Novamira](https://github.com/use-novamira.png) **Novamira** - Full WordPress access for AI agents
-
-![IMG.LY](/assets/images/taste-skill/sponsors/imgly-logo.svg) **IMG.LY** - CreativeEditor SDK
-
-![animations.dev](/assets/images/taste-skill/sponsors/animations-dev.webp) **Emil Kowalski** · [animations.dev](https://animations.dev)
-
-![Sent.dm](/assets/images/taste-skill/sponsors/sentdm.png) **Sent.dm** - messaging APIs for SMS, WhatsApp, and RCS
-
-![Vercel](/assets/images/taste-skill/sponsors/vercel-logo.svg) **Vercel Open Source Program**
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://novamira.ai/">
+        <img src="https://github.com/use-novamira.png" alt="Novamira" height="56" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://novamira.ai/">Novamira</a></strong><br/>
+      Full WordPress access for AI agents
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://img.ly/">
+        <img src="/assets/images/taste-skill/sponsors/imgly-logo.svg" alt="IMG.LY" width="62" height="62" />
+      </a>
+    </td>
+    <td>
+      <a href="https://img.ly/">
+        <strong>IMG.LY</strong> · CreativeEditor SDK
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://animations.dev">
+        <img src="/assets/images/taste-skill/sponsors/animations-dev.webp" alt="animations.dev" width="62" height="62" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/emilkowalski"><strong>Emil Kowalski</strong></a> · <a href="https://animations.dev">animations.dev</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.sent.dm">
+        <img src="/assets/images/taste-skill/sponsors/sentdm.png" alt="Sent.dm" width="62" height="62" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.sent.dm"><strong>Sent.dm</strong></a> · messaging APIs for SMS, WhatsApp, and RCS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vercel.com/open-source-program">
+        <img src="/assets/images/taste-skill/sponsors/vercel-logo.svg" alt="Vercel" width="62" height="62" />
+      </a>
+    </td>
+    <td>
+      <a href="https://vercel.com/open-source-program">
+        <img src="/assets/images/taste-skill/vercel-oss-program-badge.svg" alt="Vercel Open Source Program" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 社區贊助商
 
@@ -279,21 +389,6 @@ v2 是一個實質性重寫，保留了 v1 的旋鈕驅動哲學，並增加了�
 [![bytewerk-dev](https://github.com/bytewerk-dev.png)](https://github.com/bytewerk-dev)
 [![LuisGot](https://github.com/LuisGot.png)](https://github.com/LuisGot)
 [![oskar-collab](https://github.com/oskar-collab.png)](https://github.com/oskar-collab)
-
----
-
-## 範例專案
-
-以下是使用 taste-skill 創建的範例專案：
-
-![Floria Top](/assets/images/taste-skill/examples/floria-top.webp)
-![Floria Bottom](/assets/images/taste-skill/examples/floria-bottom.webp)
-
-這些範例展示了 taste-skill 能夠生成的：
-- 現代化、有品味的排版
-- 精心設計的間距和佈局
-- 流暢的動畫和互動效果
-- 一致的設計語言
 
 ---
 
@@ -320,15 +415,7 @@ v2 是一個實質性重寫，保留了 v1 的旋鈕驅動哲學，並增加了�
 
 Taste Skill 是 [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) 生態系統的一部分，確保與未來工具的和諧整合。
 
-![Vercel Agent Skills Badge](/assets/images/taste-skill/readme-buttons/btn-agent-skills.webp)
-
----
-
-## 支援此專案
-
-如果 Taste Skill 對您有幫助，請考慮贊助：
-
-[![GitHub Sponsors](/assets/images/taste-skill/readme-cta-tasteskill.svg)](https://github.com/sponsors/Leonxlnx)
+![Vercel Agent Skills Badge](/assets/images/taste-skill/readme-buttons_btn-agent-skills.webp)
 
 ---
 
@@ -340,19 +427,13 @@ Taste Skill 是 [Vercel Agent Skills](https://github.com/vercel-labs/agent-skill
 
 ## 授權
 
-[MIT License](LICENSE) · Copyright (c) 2026 Leonxlnx
+[MIT License](https://github.com/Leonxlnx/taste-skill/blob/main/LICENSE) · Copyright (c) 2026 Leonxlnx
 
 ---
 
 ## 免責聲明
 
 Taste Skill 沒有官方代幣、代幣或加密專案。任何使用我的名字、圖片或項目的代幣都是未關聯的，不代表我的認可。
-
----
-
-## 研究
-
-塑造這些技能的教育文章位於 [`research/`](research/) 目錄中。
 
 ---
 
@@ -363,19 +444,6 @@ Taste Skill 沒有官方代幣、代幣或加密專案。任何使用我的名�
 - 在 GitHub 上開啟 Pull Request 或 Issue
 - DM [@lexnlin](https://x.com/lexnlin) 或 [@blueemi99](https://x.com/blueemi99)
 - 致電 [hello@tasteskill.dev](mailto:hello@tasteskill.dev)
-
----
-
-## 目錄
-
-- [安裝](#安裝方式)
-- [技能](#技能分類總覽)
-- [設定](#三軸調節系統核心特色)
-- [範例](#範例專案)
-- [贊助](#支援此專案)
-- [研究](#研究)
-- [常見問題](#常見問題)
-- [授權](#授權)
 
 ---
 
