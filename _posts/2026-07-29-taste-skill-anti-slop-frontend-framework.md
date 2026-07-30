@@ -415,7 +415,7 @@ taste-skill/
 
 Taste Skill 是 [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) 生態系統的一部分，確保與未來工具的和諧整合。
 
-![Vercel Agent Skills Badge](/assets/images/taste-skill/readme-buttons_btn-agent-skills.webp)
+![Vercel Agent Skills Badge](/assets/images/taste-skill/readme-buttons/btn-agent-skills.webp)
 
 ---
 
