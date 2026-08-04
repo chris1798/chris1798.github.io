@@ -1,6 +1,6 @@
 ---
 title: "三大 AI Gateway 產品深度比較：LiteLLM vs IBM watsonx.ai vs Kong AI Gateway"
-date: 2026-07-30
+date: 2026-08-03
 description: 完整比較 LiteLLM、IBM watsonx.ai 和 Kong AI Gateway 三大 AI Gateway 產品的功能、定價、優缺點與適用情境
 tags: [ai-gateway, litellm, ibm-watsonx, kong, enterprise-ai, llm-management]
 ---

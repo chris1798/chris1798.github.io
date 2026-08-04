@@ -1,6 +1,6 @@
 ---
 title: "Open WebUI + LiteLLM 企業級部署指南：部門權限與模型路由完整實作"
-date: 2026-07-30
+date: 2026-08-03
 description: 手把手教學如何使用 Open WebUI 搭配 LiteLLM Proxy 搭建企業 AI 平台，實現按部門區分模型權限、預算控制和 RBAC 管理
 tags: [openwebui, litellm, enterprise, ai-gateway, docker, rbac, multi-tenant]
 ---

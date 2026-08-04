@@ -1,6 +1,6 @@
 ---
 title: "LiteLLM 多租戶（Multi-Tenant）完整管理指南"
-date: 2026-07-30
+date: 2026-08-03
 description: 深入解析 LiteLLM 四層多租戶架構、預算控制、模型路由、速率限制與企業級管理實踐
 tags: [litellm, multi-tenant, enterprise, api-gateway, budget-control, rbac]
 ---
