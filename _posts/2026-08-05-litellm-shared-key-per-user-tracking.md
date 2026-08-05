@@ -1,6 +1,6 @@
 ---
 title: "LiteLLM 共用 Virtual Key 多人使用時，如何追蹤每個使用者的用量？"
-date: 2026-08-03
+date: 2026-08-05
 description: 解答 LiteLLM 共用 Virtual Key 的 end_user_id 追蹤機制、個人用量查詢方法、預算限制與推薦架構
 tags: [litellm, virtual-key, cost-tracking, end-user, multi-user, budget-control]
 ---
