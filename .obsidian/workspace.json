@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md",
     "_posts/2026-08-03-openwebui-litellm-enterprise-deployment.md",
     "_posts/2026-08-03-litellm-multi-tenant-management-guide.md",
     "_posts/2026-08-03-ai-gateway-comparison-liteLLM-IBM-Kong.md",
@@ -242,7 +243,6 @@
     "_posts/2199-01-01-future-post.md",
     "_posts/2026-06-15-github.md",
     "_posts/2025-07-18-github-trending-weekly.md",
-    "_posts/2026-07-01-github-top.md",
     "solar-system-3d-interactive.html"
   ]
 }
