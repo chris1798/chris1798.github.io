@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-08-05-oracle-11g-data-guard-standby-setup.md",
     "_posts/2026-08-05-litellm-shared-key-per-user-tracking.md",
     "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md",
     "_posts/2026-08-03-openwebui-litellm-enterprise-deployment.md",
@@ -242,7 +243,6 @@
     "_posts/2026-07-24-omniroute-litellm-bifrost-integration-architecture.md",
     "_posts/2026-07-24-openwebui-litellm-enterprise-multi-tenant.md",
     "_posts/2199-01-01-future-post.md",
-    "_posts/2026-06-15-github.md",
     "solar-system-3d-interactive.html"
   ]
 }
