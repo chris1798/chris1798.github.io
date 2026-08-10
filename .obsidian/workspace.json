@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-08-05-openwebui-knowledge-base-rag-guide.md",
     "_posts/2026-08-05-aionui-complete-feature-overview.md",
     "_posts/2026-08-05-nexus-repository-manager-guide.md",
     "_posts/2026-08-05-oracle-11g-data-guard-standby-setup.md",
@@ -242,7 +243,6 @@
     "_posts/2026-07-23-grill-me-skill-analysis.md",
     "_posts/2026-07-23-tabbit-ai-browser-analysis.md",
     "_posts/2026-07-24-bifrost-ai-gateway-analysis.md",
-    "_posts/2026-07-24-omniroute-litellm-bifrost-integration-architecture.md",
     "solar-system-3d-interactive.html"
   ]
 }
