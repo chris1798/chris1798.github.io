@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-08-13-openviking-ai-agent-context-database.md",
     "_posts/2026-08-13-turbo-fieldfare-gemma-4-26b-local-inference.md",
     "_posts/2026-08-05-postgresql-pgvector-docker-setup-guide.md",
     "_posts/2026-08-05-openwebui-knowledge-base-rag-guide.md",
@@ -242,7 +243,6 @@
     "_posts/2026-07-27-google-ai-day2-day3-mcp-a2a-skills.md",
     "_posts/2026-07-28-google-vibe-coding-day1.md",
     "_posts/2025-07-27-litellm-mcp-openwebui-sop.md",
-    "_posts/2026-07-23-grill-me-skill-analysis.md",
     "solar-system-3d-interactive.html"
   ]
 }
