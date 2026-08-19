@@ -198,6 +198,12 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/dbx/screenshot-grid.png",
+    "assets/images/dbx/screenshot-er.png",
+    "assets/images/dbx/screenshot-dark.png",
+    "assets/images/dbx/screenshot-light.png",
+    "assets/images/dbx/hero.png",
+    "assets/images/dbx",
     "_posts/2026-08-18-db-query-skill-design-db2-mssql.md",
     "_posts/2026-08-15-ragflow-feature-analysis.md",
     "_posts/2026-08-13-openviking-ai-agent-context-database.md",
@@ -226,10 +232,6 @@
     "assets/images/taste-skill/assets_readme-buttons_btn-changelog.webp",
     "assets/images/taste-skill/assets_readme-buttons_btn-tools.webp",
     "assets/images/taste-skill/assets_readme-buttons_btn-agent-skills.webp",
-    "assets/images/taste-skill/assets_readme-buttons_btn-mit.webp",
-    "assets/images/taste-skill/assets_readme-buttons_btn-site.webp",
-    "assets/images/taste-skill/assets_sponsors_vercel-logo.svg",
-    "assets/images/taste-skill/assets_sponsors_sentdm.png",
     "assets/images/taste-skill/sponsors",
     "assets/images/taste-skill/readme-buttons",
     "assets/images/taste-skill/examples",
@@ -241,8 +243,6 @@
     "_posts/2026-07-29-graphify-data-visualization-library.md",
     "_posts/2024-07-29-graphify-data-visualization-library.md",
     "_posts/2026-07-28-goose-open-source-ai-agent.md",
-    "_posts/2026-07-28-anything-llm-feature-overview.md",
-    "_posts/2026-07-27-google-ai-day2-day3-mcp-a2a-skills.md",
-    "solar-system-3d-interactive.html"
+    "_posts/2026-07-28-anything-llm-feature-overview.md"
   ]
 }
