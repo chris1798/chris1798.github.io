@@ -198,6 +198,13 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-08-21-mcp-toolbox-for-databases.md",
+    "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
+    "_fposts",
+    "assets/images/mcp-toolbox/architecture.png",
+    "assets/images/mcp-toolbox/logo.png",
+    "assets/images/mcp-toolbox",
+    "readme_mcp_toolbox.md",
     "_posts/2026-08-19-dbx-lightweight-database-client-complete-guide.md",
     "assets/images/dbx/screenshot-grid.png",
     "assets/images/dbx/screenshot-er.png",
@@ -230,19 +237,12 @@
     "assets/images/taste-skill/examples_floria-full.webp",
     "assets/images/taste-skill/examples_floria-bottom.webp",
     "assets/images/taste-skill/examples_floria-top.webp",
-    "assets/images/taste-skill/assets_readme-buttons_btn-changelog.webp",
-    "assets/images/taste-skill/assets_readme-buttons_btn-tools.webp",
     "assets/images/taste-skill/sponsors",
     "assets/images/taste-skill/readme-buttons",
     "assets/images/taste-skill/examples",
     "assets/images/taste-skill",
     "_posts/2026-07-29-taste-skill-anti-slop-frontend-framework.md",
     "_posts/2026-07-28-github-vibe-coding-tutorial.md",
-    "assets/images/graphify",
-    "assets/images",
-    "_posts/2026-07-29-graphify-data-visualization-library.md",
-    "_posts/2024-07-29-graphify-data-visualization-library.md",
-    "_posts/2026-07-28-goose-open-source-ai-agent.md",
-    "_posts/2026-07-28-anything-llm-feature-overview.md"
+    "_posts/2026-07-29-graphify-data-visualization-library.md"
   ]
 }
