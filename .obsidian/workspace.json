@@ -198,6 +198,8 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/open-slide/cover.png",
+    "assets/images/open-slide",
     "_posts/2026-08-21-mcp-toolbox-for-databases.md",
     "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
     "_fposts",
@@ -240,9 +242,7 @@
     "assets/images/taste-skill/sponsors",
     "assets/images/taste-skill/readme-buttons",
     "assets/images/taste-skill/examples",
-    "assets/images/taste-skill",
     "_posts/2026-07-29-taste-skill-anti-slop-frontend-framework.md",
-    "_posts/2026-07-28-github-vibe-coding-tutorial.md",
-    "_posts/2026-07-29-graphify-data-visualization-library.md"
+    "_posts/2026-07-28-github-vibe-coding-tutorial.md"
   ]
 }
