@@ -55,7 +55,7 @@ CatDesk 是一個跑在**本地的 MCP Server**，讓 ChatGPT Web 透過「Custo
 
 專案內建了一隻可愛的**鯊魚貓（Binagotchy）**吉祥物，作者原本就做了它，後來決定放進專案裡。每次啟動時會隨機生成一隻，喜歡的話可以設為你的夥伴。
 
-<img src="/assets/images/catdesk/binagotchy.png" alt="Binagotchy" width="200" />
+<img src="/assets/images/catdesk/preview.gif" alt="Binagotchy" width="200" />
 
 ---
 
