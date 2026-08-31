@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/tailscale/tailscale-logo.png",
+    "assets/images/tailscale",
+    "_posts/2026-08-31-tailscale-原理功能與設定教學.md",
     "_posts/2026-08-31-catdesk-chatgpt-local-coding-agent.md",
     "assets/images/catdesk/csp_button.png",
     "assets/images/catdesk/high_ram_usage.png",
@@ -237,12 +240,9 @@
     "_posts/2026-07-30-litellm-multi-tenant-management-guide.md",
     "_posts/2026-07-30-openwebui-litellm-enterprise-deployment.md",
     "_posts/2026-07-29-github-top10-trending-weekly.md",
-    "_posts/2026-08-02-github-trending-week.md",
     "_posts/sedNjlobu",
     "_posts/sedg3xZ9t",
     "_posts/sedrpeVr6",
-    "assets/images/taste-skill/sponsors",
-    "assets/images/taste-skill/readme-buttons",
-    "_posts/2026-07-29-taste-skill-anti-slop-frontend-framework.md"
+    "assets/images/taste-skill/sponsors"
   ]
 }
