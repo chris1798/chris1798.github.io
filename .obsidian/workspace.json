@@ -198,6 +198,12 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/catdesk/csp_button.png",
+    "assets/images/catdesk/high_ram_usage.png",
+    "assets/images/catdesk/connector_at.png",
+    "assets/images/catdesk/connector_slash.png",
+    "assets/images/catdesk/preview.gif",
+    "assets/images/catdesk",
     "_posts/2026-08-27-open-slide-agent-native-slide-framework.md",
     "assets/images/open-slide/cover.png",
     "assets/images/open-slide",
@@ -212,8 +218,6 @@
     "assets/images/dbx/screenshot-grid.png",
     "assets/images/dbx/screenshot-er.png",
     "assets/images/dbx/screenshot-dark.png",
-    "assets/images/dbx/screenshot-light.png",
-    "assets/images/dbx/hero.png",
     "assets/images/dbx",
     "_posts/2026-08-18-db-query-skill-design-db2-mssql.md",
     "_posts/2026-08-15-ragflow-feature-analysis.md",
@@ -237,12 +241,8 @@
     "_posts/sedNjlobu",
     "_posts/sedg3xZ9t",
     "_posts/sedrpeVr6",
-    "assets/images/taste-skill/examples_floria-full.webp",
-    "assets/images/taste-skill/examples_floria-bottom.webp",
     "assets/images/taste-skill/sponsors",
     "assets/images/taste-skill/readme-buttons",
-    "assets/images/taste-skill/examples",
-    "_posts/2026-07-29-taste-skill-anti-slop-frontend-framework.md",
-    "_posts/2026-07-28-github-vibe-coding-tutorial.md"
+    "_posts/2026-07-29-taste-skill-anti-slop-frontend-framework.md"
   ]
 }
