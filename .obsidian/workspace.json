@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-09-01-motrix-download-manager-guide.md",
+    "assets/images/motrix/motrix-logo.png",
+    "assets/images/motrix",
     "assets/images/tailscale/tailscale-logo.png",
     "assets/images/tailscale",
     "_posts/2026-08-31-tailscale-原理功能與設定教學.md",
@@ -219,8 +222,6 @@
     "assets/images/mcp-toolbox",
     "readme_mcp_toolbox.md",
     "_posts/2026-08-19-dbx-lightweight-database-client-complete-guide.md",
-    "assets/images/dbx/screenshot-grid.png",
-    "assets/images/dbx/screenshot-er.png",
     "assets/images/dbx",
     "_posts/2026-08-18-db-query-skill-design-db2-mssql.md",
     "_posts/2026-08-15-ragflow-feature-analysis.md",
@@ -242,7 +243,6 @@
     "_posts/2026-07-29-github-top10-trending-weekly.md",
     "_posts/sedNjlobu",
     "_posts/sedg3xZ9t",
-    "_posts/sedrpeVr6",
-    "assets/images/taste-skill/sponsors"
+    "_posts/sedrpeVr6"
   ]
 }
