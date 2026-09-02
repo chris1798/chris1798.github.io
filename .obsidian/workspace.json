@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/openmaic/logo-horizontal.png",
+    "assets/images/openmaic/banner.png",
+    "assets/images/openmaic",
     "_posts/2026-09-01-motrix-download-manager-guide.md",
     "assets/images/motrix/motrix-logo.png",
     "assets/images/motrix",
@@ -218,7 +221,6 @@
     "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
     "_fposts",
     "assets/images/mcp-toolbox/architecture.png",
-    "assets/images/mcp-toolbox/logo.png",
     "assets/images/mcp-toolbox",
     "readme_mcp_toolbox.md",
     "_posts/2026-08-19-dbx-lightweight-database-client-complete-guide.md",
@@ -240,9 +242,7 @@
     "_posts/2026-07-30-ai-gateway-comparison-liteLLM-IBM-Kong.md",
     "_posts/2026-07-30-litellm-multi-tenant-management-guide.md",
     "_posts/2026-07-30-openwebui-litellm-enterprise-deployment.md",
-    "_posts/2026-07-29-github-top10-trending-weekly.md",
     "_posts/sedNjlobu",
-    "_posts/sedg3xZ9t",
-    "_posts/sedrpeVr6"
+    "_posts/sedg3xZ9t"
   ]
 }
