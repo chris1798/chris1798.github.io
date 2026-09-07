@@ -100,9 +100,6 @@ export DBX_MCP_HTTP_TOKEN=sk-1234
 export DBX_MCP_HTTP_ALLOW_REMOTE=1
 export DBX_MCP_HTTP_ALLOWED_HOSTS=localhost:5225,127.0.0.1:5225,host.docker.internal:5225,192.168.1.122:5225
 export DBX_MCP_HTTP_ALLOWED_ORIGINS="http://localhost:5225,http://127.0.0.1:5225,http://host.docker.internal:5225,http://192.168.1.122:5225"
-```
-## 使用 npx 啟動原生 HTTP 模式 --此段可bypass
-```
 npx -y @dbx-app/mcp-server --http --http-allow-remote
 ```
 	
