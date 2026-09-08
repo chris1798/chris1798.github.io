@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/ods/osmantic-lockup.png",
+    "assets/images/ods",
+    "_teaching/2026-09-07-redhat9-litellm-sop.md.md",
     "_posts/2026-09-03-diagram-design-editorial-agent-diagram-skill.md",
     "assets/images/diagram-design/import-drawio.png",
     "assets/images/diagram-design/loop.png",
@@ -240,9 +243,6 @@
     "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md",
     "_posts/2026-08-03-openwebui-litellm-enterprise-deployment.md",
     "_posts/2026-08-03-litellm-multi-tenant-management-guide.md",
-    "_posts/2026-08-03-ai-gateway-comparison-liteLLM-IBM-Kong.md",
-    "_posts/2026-07-30-ai-gateway-comparison-liteLLM-IBM-Kong.md",
-    "_posts/2026-07-30-litellm-multi-tenant-management-guide.md",
-    "_posts/sedNjlobu"
+    "_posts/2026-08-03-ai-gateway-comparison-liteLLM-IBM-Kong.md"
   ]
 }
