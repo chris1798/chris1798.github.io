@@ -198,6 +198,10 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/librechat/contributors.png",
+    "assets/images/librechat/star_history.png",
+    "assets/images/librechat/logo.svg",
+    "assets/images/librechat",
     "_posts/2026-09-09-oh-my-ppt-ai-presentation.md",
     "assets/images/oh-my-ppt/star_history.svg",
     "assets/images/oh-my-ppt/config.png",
@@ -207,8 +211,6 @@
     "assets/images/oh-my-ppt/style.webp",
     "assets/images/oh-my-ppt/anime.gif",
     "assets/images/oh-my-ppt/chat.webp",
-    "assets/images/oh-my-ppt/anime_screenshot.webp",
-    "assets/images/oh-my-ppt/exp.webp",
     "assets/images/oh-my-ppt",
     "assets/images/abogen",
     "_posts/2026-09-09-abogen-audiobook-generator.md",
@@ -229,7 +231,6 @@
     "assets/images/open-slide",
     "_posts/2026-08-21-mcp-toolbox-for-databases.md",
     "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
-    "_fposts",
     "readme_mcp_toolbox.md",
     "_posts/2026-08-19-dbx-lightweight-database-client-complete-guide.md",
     "_posts/2026-08-18-db-query-skill-design-db2-mssql.md",
@@ -242,7 +243,6 @@
     "_posts/2026-08-05-nexus-repository-manager-guide.md",
     "_posts/2026-08-05-oracle-11g-data-guard-standby-setup.md",
     "_posts/2026-08-05-litellm-shared-key-per-user-tracking.md",
-    "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md",
-    "_posts/2026-08-03-openwebui-litellm-enterprise-deployment.md"
+    "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md"
   ]
 }
