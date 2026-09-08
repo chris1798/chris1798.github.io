@@ -198,6 +198,11 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/astrbot/contributors.png",
+    "assets/images/astrbot/star_history.svg",
+    "assets/images/astrbot/screenshot.png",
+    "assets/images/astrbot/logo.png",
+    "assets/images/astrbot",
     "_posts/2026-09-09-librechat-ai-chat-platform.md",
     "assets/images/librechat/contributors.png",
     "assets/images/librechat/star_history.png",
@@ -208,9 +213,6 @@
     "assets/images/oh-my-ppt/config.png",
     "assets/images/oh-my-ppt/preview.png",
     "assets/images/oh-my-ppt/edit.webp",
-    "assets/images/oh-my-ppt/font.webp",
-    "assets/images/oh-my-ppt/style.webp",
-    "assets/images/oh-my-ppt/anime.gif",
     "assets/images/oh-my-ppt",
     "assets/images/abogen",
     "_posts/2026-09-09-abogen-audiobook-generator.md",
@@ -228,7 +230,6 @@
     "_posts/2026-08-31-catdesk-chatgpt-local-coding-agent.md",
     "assets/images/catdesk",
     "_posts/2026-08-27-open-slide-agent-native-slide-framework.md",
-    "assets/images/open-slide",
     "_posts/2026-08-21-mcp-toolbox-for-databases.md",
     "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
     "readme_mcp_toolbox.md",
@@ -242,7 +243,6 @@
     "_posts/2026-08-05-aionui-complete-feature-overview.md",
     "_posts/2026-08-05-nexus-repository-manager-guide.md",
     "_posts/2026-08-05-oracle-11g-data-guard-standby-setup.md",
-    "_posts/2026-08-05-litellm-shared-key-per-user-tracking.md",
-    "_posts/2026-08-03-litellm-shared-key-per-user-tracking.md"
+    "_posts/2026-08-05-litellm-shared-key-per-user-tracking.md"
   ]
 }
