@@ -192,6 +192,62 @@ podman exec -ti db2server su - db2inst1
 docker logs -f db2server
 ```
 
+
+## 建hermes帳號
+```
+sudo useradd hermes
+sudo passwd hermes
+```
+依提示輸入兩次新密碼即可
+
+## 賦予 sudo 管理員權限
+```
+sudo usermod -aG wheel hermes
+```
+重新登入一次
+
+## 安裝git
+```
+sudo dnf install git -y
+git --version
+git config --global user.name "hermes"
+git config --global user.email "hermes@mxic.com.tw"
+git config --list
+```
+
+## 安裝 C++ 編譯器與開發套件群組
+```
+sudo dnf groupinstall "Development Tools" -y
+```
+
+## 安裝hermes
+```
+curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
+```
+
+## 安裝OpenWebUI
+```
+cd /root/ai/
+mkdir open-webui
+cd open-webui
+vi docker-compose.yaml
+```
+```
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    restart: always
+    ports:
+      - "3000:8080"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      - WEBUI_SECRET_KEY=sk-My520
+    volumes:
+      - ./open-webui:/app/backend/data:z
+```
+
 ## Cloudflare若要加新的litell1.chrisai.cc.cd DNS
 若偏好直接在當前頁面點擊 [+ 新增記錄] 按鈕，類型需選擇 CNAME，名稱輸入 litellm1，
 目標填入 Tunnel 的 UUID 網址（即 <Tunnel-UUID>.cfargotunnel.com），
