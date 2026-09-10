@@ -248,6 +248,55 @@ services:
       - ./open-webui:/app/backend/data:z
 ```
 
+## 透過 Docker 安裝與運行 Hermes Agent
+## 1：複製專案儲存庫
+```
+git clone https://github.com/NousResearch/hermes-agent.git
+cd hermes-agent
+```
+## 2：設定環境變數
+```
+cp .env.example .env
+```
+
+## 3：使用 Docker Compose 啟動
+```
+docker compose up -d --build
+```
+
+## 4：進入容器或執行指令
+```
+docker compose exec hermes hermes
+docker compose exec hermes hermes setup
+docker compose exec hermes hermes gateway start
+```
+
+## 啟用Presidio PII 個人識別資訊 (PII) 
+```
+vi /root/ai/presidio/docker-compose.yml
+```
+```
+services:
+  presidio-analyzer:
+    image: mcr.microsoft.com/presidio-analyzer:latest
+    container_name: presidio-analyzer
+    ports:
+      - "5001:3000"
+    restart: unless-stopped
+
+  presidio-anonymizer:
+    image: mcr.microsoft.com/presidio-anonymizer:latest
+    container_name: presidio-anonymizer
+    ports:
+      - "5002:3000"
+    restart: unless-stopped
+```
+
+## Guardrail Test
+```
+我的名字是張三峰,我的電子郵件是test@example.com,電話是0912-345-678,信用卡號 1111-2222-3333-4444,公司是旺宏電子,查詢旺宏電子公司的地址在哪?
+```
+
 ## Cloudflare若要加新的litell1.chrisai.cc.cd DNS
 若偏好直接在當前頁面點擊 [+ 新增記錄] 按鈕，類型需選擇 CNAME，名稱輸入 litellm1，
 目標填入 Tunnel 的 UUID 網址（即 <Tunnel-UUID>.cfargotunnel.com），
