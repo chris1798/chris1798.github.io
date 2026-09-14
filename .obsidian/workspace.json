@@ -198,6 +198,8 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/colibri/colibri-logo.png",
+    "assets/images/colibri",
     "_posts/2026-09-14-ai-stock-report-generator-skill.md",
     "_posts/2026-09-11-litellm-free-vs-enterprise-comparison.md",
     "assets/images/litellm/litellm-favicon.png",
@@ -229,7 +231,6 @@
     "_posts/2026-09-02-openmaic-mult-agent-interactive-classroom-guide.md",
     "assets/images/openmaic",
     "_posts/2026-09-01-motrix-download-manager-guide.md",
-    "assets/images/motrix",
     "_posts/2026-08-31-tailscale-原理功能與設定教學.md",
     "_posts/2026-08-31-catdesk-chatgpt-local-coding-agent.md",
     "_posts/2026-08-27-open-slide-agent-native-slide-framework.md",
@@ -242,7 +243,6 @@
     "_posts/2026-08-13-openviking-ai-agent-context-database.md",
     "_posts/2026-08-13-turbo-fieldfare-gemma-4-26b-local-inference.md",
     "_posts/2026-08-05-postgresql-pgvector-docker-setup-guide.md",
-    "_posts/2026-08-05-openwebui-knowledge-base-rag-guide.md",
-    "_posts/2026-08-05-aionui-complete-feature-overview.md"
+    "_posts/2026-08-05-openwebui-knowledge-base-rag-guide.md"
   ]
 }
