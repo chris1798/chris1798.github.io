@@ -198,6 +198,8 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-09-15-github-trending-weekly.md",
+    "_teaching/2026-09-14-guardrail-demo.md",
     "_posts/2026-09-14-colibri-tiny-engine-immense-model.md",
     "assets/images/colibri/tiers.png",
     "assets/images/colibri/brain.png",
@@ -241,8 +243,6 @@
     "_posts/2026-08-18-db-query-skill-design-db2-mssql.md",
     "_posts/2026-08-15-ragflow-feature-analysis.md",
     "_posts/2026-08-13-openviking-ai-agent-context-database.md",
-    "_posts/2026-08-13-turbo-fieldfare-gemma-4-26b-local-inference.md",
-    "_posts/2026-08-05-postgresql-pgvector-docker-setup-guide.md",
-    "_posts/2026-08-05-openwebui-knowledge-base-rag-guide.md"
+    "_posts/2026-08-13-turbo-fieldfare-gemma-4-26b-local-inference.md"
   ]
 }
