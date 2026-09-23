@@ -107,7 +107,7 @@ import uvicorn
 
 app = FastAPI()
 
-_LABELS = ["person", "organization", "location", "date"]
+_LABELS = [s.strip().lower() for s in os.environ.get("GLINER_LABELS", "person,organization,location,date").split(",") if s.strip()]
 _THRESHOLD = float(os.environ.get("GLINER_THRESHOLD", "0.6"))
 # 要阻擋的實體類型，逗號分隔；留空 = 只偵測不阻擋
 _BLOCK_LABELS = {s.strip().lower() for s in os.environ.get("GLINER_BLOCK_LABELS", "").split(",") if s.strip()}
@@ -162,6 +162,7 @@ WorkingDirectory=/home/chris/gliner
 ExecStart=/home/chris/gliner-venv/bin/python /home/chris/gliner/gliner_guardrail.py
 Restart=on-failure
 Environment=GLINER_PORT=5501
+Environment=GLINER_LABELS=person,organization,location,date
 Environment=GLINER_BLOCK_LABELS=
 
 [Install]
@@ -274,7 +275,12 @@ curl -s -X POST http://localhost:4000/v1/chat/completions \
 systemctl --user status gliner-guardrail
 journalctl --user -u gliner-guardrail -f
 
-# 修改阻擋規則（person/organization/location/date 逗號分隔）
+# 修改偵測的 label 清單（GLiNER 是開放式 label，可加任意名詞：address、money、event、drug...）
+sed -i 's/GLINER_LABELS=.*/GLINER_LABELS=person,organization,location,date,address,money/' \
+  ~/.config/systemd/user/gliner-guardrail.service
+systemctl --user daemon-reload && systemctl --user restart gliner-guardrail
+
+# 修改阻擋規則（阻擋的 label 必須是 GLINER_LABELS 的子集）
 sed -i 's/GLINER_BLOCK_LABELS=.*/GLINER_BLOCK_LABELS=organization,location/' \
   ~/.config/systemd/user/gliner-guardrail.service
 systemctl --user daemon-reload && systemctl --user restart gliner-guardrail
@@ -299,7 +305,8 @@ curl -s -X DELETE http://localhost:4000/guardrails/<guardrail_id> -H 'Authorizat
 | 環境變數（gliner-guardrail.service） | 預設 | 說明 |
 |---|---|---|
 | `GLINER_PORT` | 5501 | 服務埠 |
-| `GLINER_BLOCK_LABELS` | 空 | 要阻擋的實體類型，逗號分隔 |
+| `GLINER_LABELS` | person,organization,location,date | 要**偵測**的實體類型，逗號分隔（GLiNER 開放式 label，可加任意名詞，如 address、money、event） |
+| `GLINER_BLOCK_LABELS` | 空 | 要**阻擋**的實體類型，逗號分隔（須為 GLINER_LABELS 的子集） |
 | `GLINER_THRESHOLD` | 0.6 | NER 置信度門檻 |
 | `GLINER_MODEL` | gliner-community/gliner_small-v2.5 | HuggingFace 模型 |
 
