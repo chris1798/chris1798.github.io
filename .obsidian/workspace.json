@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-15-gliguard-gliner2-pii-guardrail-litellm.md",
     "_posts/2026-08-02-github-trending-week.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "assets/images/text-to-cad/logo.svg",
@@ -242,7 +243,6 @@
     "_posts/2026-08-31-catdesk-chatgpt-local-coding-agent.md",
     "_posts/2026-08-27-open-slide-agent-native-slide-framework.md",
     "_posts/2026-08-21-mcp-toolbox-for-databases.md",
-    "_fposts/2026-08-21-mcp-toolbox-for-databases.md",
-    "readme_mcp_toolbox.md"
+    "_fposts/2026-08-21-mcp-toolbox-for-databases.md"
   ]
 }
