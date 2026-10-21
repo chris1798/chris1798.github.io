@@ -145,7 +145,7 @@ Maya 的取捨也很清楚：它專攻「GLM-5.3-Flash + DeepSeek-V4.1-Flash 兩
 - 專案 MIT；底層尊重 Strata、ggml/llama.cpp、exllamav3、beellama.cpp 的 MIT 版權聲明
 - 模型本體 GLM-5.3-Flash 與 DeepSeek-V4.1-Flash-1017 均為 MIT
 - **例外**：DFlash2 起草器 CC BY-NC-ND 4.0（僅非商用，選裝才下載）；Maya-M-Derisked 的放寬拒答的編輯屬實驗性
-- 執行時鎖 RAM、吃滿 NVMe 讀取——建議專用機器或至少專用时段
+- 執行時鎖 RAM、吃滿 NVMe 讀取——建議專用機器或至少專用時段
 - 專案成立僅兩週但迭代極快（當天即 v1.1.21，AMD prompt 提速 2.4×），追新版本成本很低：面板 About > Update 或 `git pull && ./setup.sh`，模型不用重抓
 
 ## 參考資料
