@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "assets/images/project-maya/03-compiling.png",
     "assets/images/project-maya/09-loading.png",
     "assets/images/project-maya/07-dashboard.png",
@@ -219,7 +220,6 @@
     "assets/images/text-to-cad",
     "_posts/2026-10-09-gridex-database-ide.md",
     "assets/images/gridex/star-history.svg",
-    "assets/images/gridex/diagram.png",
     "assets/images/gridex",
     "_teaching/2026-10-06-memo.md",
     "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md",
