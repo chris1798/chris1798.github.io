@@ -198,6 +198,11 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/project-maya/03-compiling.png",
+    "assets/images/project-maya/09-loading.png",
+    "assets/images/project-maya/07-dashboard.png",
+    "assets/images/project-maya/01-question-gpus.png",
+    "assets/images/project-maya",
     "_posts/2026-10-19-github-trending-top10.md",
     "assets/images/artcraft/img2.webp",
     "assets/images/artcraft/img1.webp",
@@ -215,9 +220,6 @@
     "_posts/2026-10-09-gridex-database-ide.md",
     "assets/images/gridex/star-history.svg",
     "assets/images/gridex/diagram.png",
-    "assets/images/gridex/mcp-logs.png",
-    "assets/images/gridex/mcp.png",
-    "assets/images/gridex/show-case.png",
     "assets/images/gridex",
     "_teaching/2026-10-06-memo.md",
     "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md",
@@ -235,14 +237,12 @@
     "_posts/2026-09-09-librechat-ai-chat-platform.md",
     "assets/images/librechat",
     "_posts/2026-09-09-oh-my-ppt-ai-presentation.md",
-    "assets/images/oh-my-ppt",
     "_posts/2026-09-09-abogen-audiobook-generator.md",
     "_posts/2026-09-08-ods-osmantic-deployment-system-local-ai-server.md",
     "_teaching/2026-09-07-redhat9-litellm-sop.md.md",
     "_posts/2026-09-03-diagram-design-editorial-agent-diagram-skill.md",
     "_posts/2026-09-02-openmaic-mult-agent-interactive-classroom-guide.md",
     "_posts/2026-09-01-motrix-download-manager-guide.md",
-    "_posts/2026-08-31-tailscale-原理功能與設定教學.md",
-    "_posts/2026-08-31-catdesk-chatgpt-local-coding-agent.md"
+    "_posts/2026-08-31-tailscale-原理功能與設定教學.md"
   ]
 }
