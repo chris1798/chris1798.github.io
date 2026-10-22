@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-10-15-text-to-cad-agent-cad.md",
+                "file": "_posts/2026-10-21-project-maya-local-moe-llm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-15-text-to-cad-agent-cad"
+              "title": "2026-10-21-project-maya-local-moe-llm"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-21-freeidx-cloudflare-forum.md",
+    "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "assets/images/project-maya/03-compiling.png",
     "assets/images/project-maya/09-loading.png",
@@ -215,7 +217,6 @@
     "_posts/2026-10-17-dify-complete-guide.md",
     "_posts/2026-10-15-gliguard-gliner2-pii-guardrail-litellm.md",
     "_posts/2026-08-02-github-trending-week.md",
-    "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "assets/images/text-to-cad/logo.svg",
     "assets/images/text-to-cad",
     "_posts/2026-10-09-gridex-database-ide.md",
@@ -242,7 +243,6 @@
     "_teaching/2026-09-07-redhat9-litellm-sop.md.md",
     "_posts/2026-09-03-diagram-design-editorial-agent-diagram-skill.md",
     "_posts/2026-09-02-openmaic-mult-agent-interactive-classroom-guide.md",
-    "_posts/2026-09-01-motrix-download-manager-guide.md",
-    "_posts/2026-08-31-tailscale-原理功能與設定教學.md"
+    "_posts/2026-09-01-motrix-download-manager-guide.md"
   ]
 }
