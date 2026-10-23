@@ -120,11 +120,11 @@ API-mega-list/
 
 ## 🆚 與其他 API 目錄比較
 
-| Repo | Stars | 定位 | 費用 |
-|------|------:|------|------|
-| **API Mega List** | 8.1K | Apify Actors 為主的超大策展目錄＋贊助模式 | 多為付費按次服務 |
-| public-apis/public-apis | 40 萬級 | 免費公開 API 百科（天气、金融、政府資料） | 免費為主 |
-| apis.guru | — | REST/GraphQL OpenAPI 規範搜尋引擎 | 混合 |
+| Repo                    | Stars | 定位                          | 費用       |
+| ----------------------- | ----: | --------------------------- | -------- |
+| **API Mega List**       |  8.1K | Apify Actors 為主的超大策展目錄＋贊助模式 | 多為付費按次服務 |
+| public-apis/public-apis | 40 萬級 | 免費公開 API 百科（天气、金融、政府資料）     | 免費為主     |
+| apis.guru               |     — | REST/GraphQL OpenAPI 規範搜尋引擎 | 混合       |
 
 三者互補：要**免費公開 API** 去 public-apis；要**爬蟲／自動化／AI 代理工具**（願意付費按次使用）這本 mega list 是現成索引。
 
