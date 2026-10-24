@@ -5,6 +5,7 @@ date: 2026-10-24
 description: "2026 年 10 月中旬這一週 GitHub Trending 前十名：REA、VoiceStudio、Orca、OpenCode、HyperFrames、ComfyUI、Claude Code Plugins、Ghidra、ai-memory、Ruflo——功能、架構與圖片說明。"
 tags: [GitHub, Trending, AI Agent, 開源工具, 逆向工程, 語音 AI, 影片生成]
 categories: [技術觀察]
+permalink: /weekly-github-trending-top10-2026-10-24/
 image: /assets/images/trending-morluto-rea/img0.0.png
 ---
 
