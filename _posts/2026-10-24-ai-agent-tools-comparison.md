@@ -15,7 +15,14 @@ tags:
 categories:
   - 技術觀察
 permalink: /ai-agent-tools-comparison-2026-10/
+image: /assets/images/ai-agent-comparison-2026/agent-position-map@2x.png
 ---
+
+## 工具定位圖
+
+下圖以「主要場景 × 記憶自治度」兩軸、模型自由度配色，標出九個工具的定位：
+
+![2026 AI Agent 工具定位圖](/assets/images/ai-agent-comparison-2026/agent-position-map@2x.png)
 
 ## 資料來源與時間基準
 
