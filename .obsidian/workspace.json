@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-10-24-github-trending-top10.md",
+                "file": "_posts/2026-10-24-ai-agent-tools-comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-24-github-trending-top10"
+              "title": "2026-10-24-ai-agent-tools-comparison"
             }
           }
         ]
@@ -198,8 +198,11 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
-    "_posts/2026-10-24-ai-agent-tools-comparison.md",
+    "assets/images/ai-agent-comparison-2026/agent-position-map@2x.png",
+    "assets/images/ai-agent-comparison-2026/agent-position-map.svg",
+    "assets/images/ai-agent-comparison-2026",
     "_posts/2026-10-24-github-trending-top10.md",
+    "_posts/2026-10-24-ai-agent-tools-comparison.md",
     "_posts/2026-10-23-public-apis-complete-guide.md",
     "_posts/2026-10-21-freeidx-cloudflare-forum.md",
     "_posts/2026-10-23-api-mega-list-complete-guide.md",
@@ -220,10 +223,8 @@
     "assets/images/trending-comfy-org-comfyui/img0.0.png",
     "assets/images/trending-comfy-org-comfyui",
     "assets/images/trending-heygen-com-hyperframes/img1.1.png",
-    "assets/images/trending-heygen-com-hyperframes/img0.0.png",
     "assets/images/trending-heygen-com-hyperframes",
     "assets/images/trending-anomalyco-opencode",
-    "assets/images/trending-stablyai-orca",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-19-github-trending-top10.md",
@@ -242,7 +243,6 @@
     "_posts/2026-09-09-ragflow-rag-engine.md",
     "_posts/2026-09-09-astrbot-ai-agent-platform.md",
     "_posts/2026-09-09-librechat-ai-chat-platform.md",
-    "_posts/2026-09-09-oh-my-ppt-ai-presentation.md",
-    "_posts/2026-09-09-abogen-audiobook-generator.md"
+    "_posts/2026-09-09-oh-my-ppt-ai-presentation.md"
   ]
 }
