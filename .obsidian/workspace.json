@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/trending-anomalyco-opencode/img0.png",
     "_posts/2026-10-24-github-trending-top10.md",
     "assets/images/trending-ghidra/img1.png",
     "assets/images/trending-debpalash-voicestudio/img2.png",
@@ -242,7 +243,6 @@
     "_posts/2026-09-09-astrbot-ai-agent-platform.md",
     "_posts/2026-09-09-librechat-ai-chat-platform.md",
     "_posts/2026-09-09-oh-my-ppt-ai-presentation.md",
-    "_posts/2026-09-09-abogen-audiobook-generator.md",
-    "_posts/2026-09-08-ods-osmantic-deployment-system-local-ai-server.md"
+    "_posts/2026-09-09-abogen-audiobook-generator.md"
   ]
 }
