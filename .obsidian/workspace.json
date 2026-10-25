@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-10-24-ai-agent-tools-comparison.md",
+                "file": "_posts/2026-10-24-github-trending-top10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-24-ai-agent-tools-comparison"
+              "title": "2026-10-24-github-trending-top10"
             }
           }
         ]
@@ -198,11 +198,12 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-25-huggingface-trending-top10.md",
+    "_posts/2026-10-24-ai-agent-tools-comparison.md",
     "assets/images/ai-agent-comparison-2026/agent-position-map@2x.png",
     "assets/images/ai-agent-comparison-2026/agent-position-map.svg",
     "assets/images/ai-agent-comparison-2026",
     "_posts/2026-10-24-github-trending-top10.md",
-    "_posts/2026-10-24-ai-agent-tools-comparison.md",
     "_posts/2026-10-23-public-apis-complete-guide.md",
     "_posts/2026-10-21-freeidx-cloudflare-forum.md",
     "_posts/2026-10-23-api-mega-list-complete-guide.md",
@@ -222,7 +223,6 @@
     "assets/images/trending-anthropics-claude-plugins-official",
     "assets/images/trending-comfy-org-comfyui/img0.0.png",
     "assets/images/trending-comfy-org-comfyui",
-    "assets/images/trending-heygen-com-hyperframes/img1.1.png",
     "assets/images/trending-heygen-com-hyperframes",
     "assets/images/trending-anomalyco-opencode",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
