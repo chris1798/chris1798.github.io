@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hugging Face 本週熱門模型 Top 10 完整介紹"
 date: 2026-10-25
 description: "深入了解本週 Hugging Face 最受歡迎的 10 個人工智慧模型，涵蓋多模態、影像生成、語音合成等領域的最新突破。"
