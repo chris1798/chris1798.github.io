@@ -198,6 +198,11 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-28-text-to-cad-v08-features.md",
+    "assets/images/text-to-cad/star-history.svg",
+    "assets/images/text-to-cad/logo-cad.png",
+    "assets/images/text-to-cad/social-preview.png",
+    "assets/images/text-to-cad/logo-stacked.png",
     "_posts/2199-01-01-future-post.md",
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
     "_posts/2026-10-25-huggingface-trending-top10.md",
@@ -217,15 +222,11 @@
     "assets/images/trending-debpalash-voicestudio/img2.png",
     "assets/images/trending-opencode/img0.png",
     "assets/images/trending-opencode",
-    "assets/images/trending-ghidra/img0.png",
     "assets/images/trending-ghidra",
-    "assets/images/trending-ruvnet-ruflo/img0.jpg",
     "assets/images/trending-ruvnet-ruflo",
-    "assets/images/trending-akitaonrails-ai-memory/img0.0.png",
     "assets/images/trending-akitaonrails-ai-memory",
     "assets/images/trending-nationalsecurityagency-ghidra",
     "assets/images/trending-anthropics-claude-plugins-official",
-    "assets/images/trending-comfy-org-comfyui/img0.0.png",
     "assets/images/trending-comfy-org-comfyui",
     "assets/images/trending-heygen-com-hyperframes",
     "assets/images/trending-anomalyco-opencode",
@@ -242,7 +243,6 @@
     "_posts/2026-09-15-github-trending-weekly.md",
     "_teaching/2026-09-14-guardrail-demo.md",
     "_posts/2026-09-14-colibri-tiny-engine-immense-model.md",
-    "_posts/2026-09-14-ai-stock-report-generator-skill.md",
-    "_posts/2026-09-11-litellm-free-vs-enterprise-comparison.md"
+    "_posts/2026-09-14-ai-stock-report-generator-skill.md"
   ]
 }
