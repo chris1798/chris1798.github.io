@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-10-28-text-to-cad-v08-features.md",
+                "file": "_posts/2026-11-01-gliner-litellm-guardrail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-28-text-to-cad-v08-features"
+              "title": "2026-11-01-gliner-litellm-guardrail"
             }
           }
         ]
@@ -198,12 +198,12 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-10-28-text-to-cad-v08-features.md",
     "assets/images/gliner-litellm-guardrail/guardrail-architecture@2x.png",
     "assets/images/gliner-litellm-guardrail/guardrail-architecture.svg",
     "assets/images/gliner-litellm-guardrail",
     "_posts/2026-11-01-gliner-litellm-guardrail.md",
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
-    "_posts/2026-10-28-text-to-cad-v08-features.md",
     "assets/images/text-to-cad/star-history.svg",
     "assets/images/text-to-cad/logo-cad.png",
     "assets/images/text-to-cad/social-preview.png",
@@ -223,7 +223,6 @@
     "_posts/2026-10-23-magpie-complete-guide.md",
     "assets/images/trending-anomalyco-opencode/img0.png",
     "assets/images/trending-ghidra/img1.png",
-    "assets/images/trending-debpalash-voicestudio/img2.png",
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
