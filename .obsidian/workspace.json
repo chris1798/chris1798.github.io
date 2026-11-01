@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/gliner-litellm-guardrail/guardrail-architecture@2x.png",
+    "assets/images/gliner-litellm-guardrail/guardrail-architecture.svg",
+    "assets/images/gliner-litellm-guardrail",
     "_posts/2026-11-01-gliner-litellm-guardrail.md",
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
     "_posts/2026-10-28-text-to-cad-v08-features.md",
@@ -221,7 +224,6 @@
     "assets/images/trending-anomalyco-opencode/img0.png",
     "assets/images/trending-ghidra/img1.png",
     "assets/images/trending-debpalash-voicestudio/img2.png",
-    "assets/images/trending-opencode/img0.png",
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
@@ -230,7 +232,6 @@
     "assets/images/trending-anthropics-claude-plugins-official",
     "assets/images/trending-comfy-org-comfyui",
     "assets/images/trending-heygen-com-hyperframes",
-    "assets/images/trending-anomalyco-opencode",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-19-github-trending-top10.md",
@@ -242,7 +243,6 @@
     "_teaching/2026-10-06-memo.md",
     "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md",
     "_posts/2026-09-15-github-trending-weekly.md",
-    "_teaching/2026-09-14-guardrail-demo.md",
-    "_posts/2026-09-14-colibri-tiny-engine-immense-model.md"
+    "_teaching/2026-09-14-guardrail-demo.md"
   ]
 }
