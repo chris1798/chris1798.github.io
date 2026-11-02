@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-02-agent-desktop-computer-use.md",
+    "assets/images/agent-desktop/banner.png",
+    "assets/images/agent-desktop",
     "_posts/2026-11-02-nv-uefi-unlocker.md",
     "_posts/2026-10-28-text-to-cad-v08-features.md",
     "assets/images/gliner-litellm-guardrail/guardrail-architecture@2x.png",
@@ -223,7 +226,6 @@
     "_posts/2026-10-23-api-mega-list-complete-guide.md",
     "_posts/2026-10-23-magpie-complete-guide.md",
     "assets/images/trending-anomalyco-opencode/img0.png",
-    "assets/images/trending-ghidra/img1.png",
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
@@ -231,7 +233,6 @@
     "assets/images/trending-nationalsecurityagency-ghidra",
     "assets/images/trending-anthropics-claude-plugins-official",
     "assets/images/trending-comfy-org-comfyui",
-    "assets/images/trending-heygen-com-hyperframes",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-19-github-trending-top10.md",
@@ -242,7 +243,6 @@
     "_posts/2026-10-09-gridex-database-ide.md",
     "_teaching/2026-10-06-memo.md",
     "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md",
-    "_posts/2026-09-15-github-trending-weekly.md",
-    "_teaching/2026-09-14-guardrail-demo.md"
+    "_posts/2026-09-15-github-trending-weekly.md"
   ]
 }
