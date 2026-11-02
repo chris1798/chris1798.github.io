@@ -198,6 +198,10 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-02-herdr-agent-terminal-runtime.md",
+    "assets/images/herdr/screenshot.png",
+    "assets/images/herdr/logo.png",
+    "assets/images/herdr",
     "_posts/2026-11-02-agent-desktop-computer-use.md",
     "assets/images/agent-desktop/banner.png",
     "assets/images/agent-desktop",
@@ -219,20 +223,17 @@
     "_posts/2026-10-24-github-trending-top10.md",
     "_posts/2026-10-24-ai-agent-tools-comparison.md",
     "assets/images/ai-agent-comparison-2026/agent-position-map@2x.png",
-    "assets/images/ai-agent-comparison-2026/agent-position-map.svg",
     "assets/images/ai-agent-comparison-2026",
     "_posts/2026-10-23-public-apis-complete-guide.md",
     "_posts/2026-10-21-freeidx-cloudflare-forum.md",
     "_posts/2026-10-23-api-mega-list-complete-guide.md",
     "_posts/2026-10-23-magpie-complete-guide.md",
-    "assets/images/trending-anomalyco-opencode/img0.png",
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
     "assets/images/trending-akitaonrails-ai-memory",
     "assets/images/trending-nationalsecurityagency-ghidra",
     "assets/images/trending-anthropics-claude-plugins-official",
-    "assets/images/trending-comfy-org-comfyui",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-19-github-trending-top10.md",
@@ -242,7 +243,6 @@
     "_posts/2026-08-02-github-trending-week.md",
     "_posts/2026-10-09-gridex-database-ide.md",
     "_teaching/2026-10-06-memo.md",
-    "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md",
-    "_posts/2026-09-15-github-trending-weekly.md"
+    "_posts/2026-09-18-litellm-amazon-bedrock-guardrail-guide.md"
   ]
 }
