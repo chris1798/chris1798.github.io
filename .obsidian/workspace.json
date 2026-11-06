@@ -198,6 +198,10 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-06-deskflow-keyboard-mouse-sharing.md",
+    "assets/images/deskflow/app-icon.png",
+    "assets/images/deskflow/logo.png",
+    "assets/images/deskflow",
     "_posts/2026-11-03-ruflo-agent-meta-harness.md",
     "assets/images/ruflo/logo.png",
     "assets/images/ruflo/header.svg",
@@ -207,8 +211,6 @@
     "assets/images/ruflo/quick-start.svg",
     "assets/images/ruflo/learning-flow.svg",
     "assets/images/ruflo/federation-flow.svg",
-    "assets/images/ruflo/architecture-flow.svg",
-    "assets/images/ruflo/capabilities.svg",
     "assets/images/ruflo",
     "_posts/2026-11-02-herdr-agent-terminal-runtime.md",
     "assets/images/herdr",
@@ -234,7 +236,6 @@
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
     "assets/images/trending-akitaonrails-ai-memory",
-    "assets/images/trending-nationalsecurityagency-ghidra",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
     "_posts/2026-10-19-github-trending-top10.md",
@@ -242,7 +243,6 @@
     "_posts/2026-10-17-dify-complete-guide.md",
     "_posts/2026-10-15-gliguard-gliner2-pii-guardrail-litellm.md",
     "_posts/2026-08-02-github-trending-week.md",
-    "_posts/2026-10-09-gridex-database-ide.md",
-    "_teaching/2026-10-06-memo.md"
+    "_posts/2026-10-09-gridex-database-ide.md"
   ]
 }
