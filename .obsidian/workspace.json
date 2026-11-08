@@ -198,6 +198,12 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-08-idol-image-to-3dgs-test.md",
+    "assets/images/idol/t1_input.png",
+    "assets/images/idol/castle.webp",
+    "assets/images/idol/lamp.webp",
+    "assets/images/idol/armchair.webp",
+    "assets/images/idol",
     "_posts/2026-11-08-img2threejs-analysis.md",
     "_posts/2026-11-07-github-trending-weekly.md",
     "_posts/2026-11-06-hackintosh-skill.md",
@@ -211,10 +217,6 @@
     "assets/images/ruflo/header.svg",
     "assets/images/ruflo/star-history.svg",
     "assets/images/ruflo/tui.svg",
-    "assets/images/ruflo/card-swarm.svg",
-    "assets/images/ruflo/quick-start.svg",
-    "assets/images/ruflo/learning-flow.svg",
-    "assets/images/ruflo/federation-flow.svg",
     "assets/images/ruflo",
     "_posts/2026-11-02-herdr-agent-terminal-runtime.md",
     "assets/images/herdr",
@@ -239,10 +241,8 @@
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
-    "assets/images/trending-akitaonrails-ai-memory",
     "_posts/2026-10-21-project-maya-local-moe-llm.md",
     "_posts/2026-10-15-text-to-cad-agent-cad.md",
-    "_posts/2026-10-19-github-trending-top10.md",
-    "_posts/2026-10-17-dify-podman-rhel9-sop.md"
+    "_posts/2026-10-19-github-trending-top10.md"
   ]
 }
