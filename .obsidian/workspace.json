@@ -198,6 +198,8 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/MoneyPrinterTurbo/api.jpg",
+    "assets/images/MoneyPrinterTurbo/webui.jpg",
     "_posts/2026-11-09-chrome-use-analysis.md",
     "_posts/2026-11-08-idol-image-to-3dgs-test.md",
     "assets/images/idol/t1_input.png",
@@ -217,7 +219,6 @@
     "assets/images/ruflo/logo.png",
     "assets/images/ruflo/header.svg",
     "assets/images/ruflo/star-history.svg",
-    "assets/images/ruflo/tui.svg",
     "assets/images/ruflo",
     "_posts/2026-11-02-herdr-agent-terminal-runtime.md",
     "assets/images/herdr",
@@ -242,7 +243,6 @@
     "assets/images/trending-opencode",
     "assets/images/trending-ghidra",
     "assets/images/trending-ruvnet-ruflo",
-    "_posts/2026-10-21-project-maya-local-moe-llm.md",
-    "_posts/2026-10-15-text-to-cad-agent-cad.md"
+    "_posts/2026-10-21-project-maya-local-moe-llm.md"
   ]
 }
