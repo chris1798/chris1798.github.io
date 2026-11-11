@@ -66,7 +66,7 @@ WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、
 
 - **主流模型服務**：Kimi / Moonshot AI、OpenAI、Anthropic Claude、Google Gemini、DeepSeek、阿里雲通義千問、Azure OpenAI、火山引擎方舟、xAI Grok、MiniMax、小米 MiMo 等。
 - **統一閘道／聚合平台／本地環境**：Cloudflare AI Gateway、OpenRouter、LiteLLM、OneAPI、Ollama、魔搭 ModelScope、AIHubMix、AIML API、Groq、Pollinations AI 等 OpenAI 相容端點皆可串接。
-- v1.3.10 起另支援 **OpenAI Codex 訂閱登入**（裝置碼登入＋動態模型選取）與 **ChatGPT Native OAuth** 提供器，可直接沿用訂閱额度而不用另買 API。
+- v1.3.10 起另支援 **OpenAI Codex 訂閱登入**（裝置碼登入＋動態模型選取）與 **ChatGPT Native OAuth** 提供器，可直接沿用訂閱額度而不用另買 API。
 
 對已有自建推理服務（例如 LiteLLM Proxy 或 Ollama）的使用者來說，几乎零成本就能把這套工具接進現有環境。
 
@@ -103,7 +103,7 @@ WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、
 
 - 三種畫幅：直式 `9:16（1080×1920）`、橫式 `16:9（1920×1080）`、方形 `1:1（1080×1080）`。
 - 一鍵**跨平台發布**：產片完成後自動上傳至 **TikTok、Instagram、YouTube Shorts**。
-- 任務追蹤可在重新整理頁面後續看進度，並有重複提交防護與轮詢狀態顯示（v1.3.10）。
+- 任務追蹤可在重新整理頁面後續看進度，並有重複提交防護與輪詢狀態顯示（v1.3.10）。
 
 ## 技術架構
 
@@ -142,7 +142,7 @@ WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、
 
 - 首次啟動依 `config.example.toml` 自動建立 `config.toml`，API 金鑰在 WebUI 基礎設定中填寫即可。
 - pip 安裝版的資料目錄：Windows 在 `%LOCALAPPDATA%\MoneyPrinterTurbo`，可用 `MPT_HOME` 覆寫；成片位於其中 `storage/tasks`。
-- 想让局域网装置连用 WebUI，設定 `MPT_WEBUI_HOST=0.0.0.0` 再啟動。
+- 想讓區域網路內的裝置共用 WebUI，設定 `MPT_WEBUI_HOST=0.0.0.0` 再啟動。
 - API 預設僅容許同源網頁存取，跨源前端才需用 `CORS_ALLOWED_ORIGINS` 白名單；curl / Postman / n8n 等服務端呼叫不受 CORS 限制。
 
 ### 硬體需求
@@ -157,7 +157,7 @@ WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、
 
 ## 常見問題速查
 
-- **`No ffmpeg exe could be found`**：ffmpeg  normally 會自動下載；失敗時自行從 gyan.dev 下載並在 `config.toml` 設定 `ffmpeg_path`。
+- **`No ffmpeg exe could be found`**：ffmpeg 通常會自動下載；失敗時自行從 gyan.dev 下載並在 `config.toml` 設定 `ffmpeg_path`。
 - **`Too many open files`**：以 `ulimit -n 10240` 調高檔案開啟數上限。
 - **Whisper 模型下載失敗**：改從 Hugging Face 手動下載 `whisper-large-v3`，整份資料夾放到專案 `models/whisper-large-v3`。
 
@@ -165,7 +165,7 @@ WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、
 
 - 新增 OpenAI Codex 訂閱存取與 ChatGPT Native OAuth 提供器，以及 Codex 圖片生成作為素材來源。
 - 新增 Infistar、Jalapeno Cloud 等 LLM／影片生成服務。
-- 長效影片產生加入階段進度、經過時間与轮詢狀態；任務於頁面重新整理後仍可追蹤。
+- 長效影片產生加入階段進度、經過時間與輪詢狀態；任務於頁面重新整理後仍可追蹤。
 - 阿拉伯文字幕整形、更平滑的圖片緩慢縮放、新增印尼語介面。
 - Redis 任務併發上限跨 worker 共用（原子化槽位預留與續約）。
 
