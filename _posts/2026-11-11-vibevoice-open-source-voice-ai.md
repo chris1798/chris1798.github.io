@@ -28,7 +28,7 @@ image: /assets/images/VibeVoice/VibeVoice.jpg
 VibeVoice 的關鍵創新在於**連續語音記號化（continuous speech tokenization）**：
 
 - **聲學（Acoustic）與語意（Semantic）兩套連續記號器**，以超低 **7.5 Hz** 幀率運作——比一般離散語音編碼器的幀率低一個數量級以上，大幅縮短序列長度，讓「一小時語音」能塞進 LLM 的 64K 上下文單次處理。
-- 採用 **next-token diffusion** 框架：**LLM 主幹（基於 Qwen2.5）**負責理解文字脈絡與對話流向、产出下一個語音記號；末端接一個**擴散解碼頭（diffusion head）**還原高保真聲學細節。
+- 採用 **next-token diffusion** 框架：**LLM 主幹（基於 Qwen2.5）**負責理解文字脈絡與對話流向、產出下一個語音記號；末端接一個**擴散解碼頭（diffusion head）**還原高保真聲學細節。
 - 這個「LLM 管語意、擴散頭管音色細節」的分工，是它能同時做到**超長時程一致性**與**高音質**的原因。
 
 ![VibeVoice 整體架構（LLM + 雙記號器 + Diffusion Head）](/assets/images/VibeVoice/VibeVoice.jpg)
@@ -153,13 +153,13 @@ python demo/vibevoice_realtime_demo.py --model_path microsoft/VibeVoice-Realtime
 **亮點**
 
 - 架構路線清晰：7.5 Hz 超低幀率記號化把「長音訊」問題轉化為 LLM 擅長的長序列問題，ASR 與 TTS 共享同一套哲學，60/90 分鐘級處理能力至今仍是開源天花板。
-- ASR 端工程配套完整：Playground、Colab、Transformers、vLLM、LoRA 微調、CPU 邊緣引擎一應俱全，從试玩到量產都有路。
+- ASR 端工程配套完整：Playground、Colab、Transformers、vLLM、LoRA 微調、CPU 邊緣引擎一應俱全，從試用到量產都有路。
 - Realtime-0.5B 以極小体量提供約 200 ms 級延遲與旗艦級零樣本成績，非常適合接在自己的 LLM 服務前面。
 - MIT 授權、微軟背後品質與持續更新的節奏（近一年幾乎每季都有新模型）。
 
 **限制與注意**
 
-- 招牌的 TTS 推理程式已下架，「90 分鐘 4 說話者」目前只剩權重與論文，开箱即用的多說話者合成並不可得。
+- 招牌的 TTS 推理程式已下架，「90 分鐘 4 說話者」目前只剩權重與論文，開箱即用的多說話者合成並不可得。
 - 官方定位研究用途，商業落地需自行評估法遵與倫理風險，並自備防濫用措施。
 - 中文能力可用但非一線（中文資料量明顯少於英文），TTS 中文穩定性有已知問題，ASR 中文會議成績落後英文。
 - 完整功能需要 NVIDIA GPU 環境（NGC 容器＋Flash Attention）；免 GPU 路線目前只有 BitNet ASR 與線上 Demo。
