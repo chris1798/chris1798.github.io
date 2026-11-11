@@ -198,6 +198,11 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/VibeVoice/VibeVoice-TTS-results.jpg",
+    "assets/images/VibeVoice/VibeVoice_Realtime.png",
+    "assets/images/VibeVoice/VibeVoice_ASR_archi.png",
+    "assets/images/VibeVoice/VibeVoice.jpg",
+    "assets/images/VibeVoice",
     "_posts/2026-11-11-moneyprinterturbo-ai-video-generator.md",
     "assets/images/MoneyPrinterTurbo/api.jpg",
     "assets/images/MoneyPrinterTurbo/webui.jpg",
@@ -214,11 +219,8 @@
     "_posts/2026-11-06-t3code-agent-control-surface.md",
     "_posts/2026-11-06-deskflow-keyboard-mouse-sharing.md",
     "assets/images/deskflow/app-icon.png",
-    "assets/images/deskflow/logo.png",
     "assets/images/deskflow",
     "_posts/2026-11-03-ruflo-agent-meta-harness.md",
-    "assets/images/ruflo/logo.png",
-    "assets/images/ruflo/header.svg",
     "assets/images/ruflo",
     "_posts/2026-11-02-herdr-agent-terminal-runtime.md",
     "assets/images/herdr",
@@ -241,8 +243,6 @@
     "_posts/2026-10-23-api-mega-list-complete-guide.md",
     "_posts/2026-10-23-magpie-complete-guide.md",
     "assets/images/trending-opencode",
-    "assets/images/trending-ghidra",
-    "assets/images/trending-ruvnet-ruflo",
-    "_posts/2026-10-21-project-maya-local-moe-llm.md"
+    "assets/images/trending-ghidra"
   ]
 }
