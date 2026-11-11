@@ -3,7 +3,7 @@ title: "MoneyPrinterTurbo 功能總覽：一句主題，自動產出高清短影
 date: 2026-11-11
 description: MoneyPrinterTurbo 是一站式 AI 短影片產生工具，輸入主題或關鍵字即可自動完成腳本、配音、素材、字幕、配樂與剪輯，並一鍵發布到 TikTok、Instagram 與 YouTube Shorts。本文整理其功能、技術架構、支援服務清單與部署方式。
 tags: [AI, 影片生成, LLM, TTS, 開源專案, Python, 短影音]
-image: /assets/images/moneyprinterturbo/webui.jpg
+image: /assets/images/MoneyPrinterTurbo/webui.jpg
 ---
 
 # MoneyPrinterTurbo 功能總覽：一句主題，自動產出高清短影片
@@ -26,9 +26,9 @@ image: /assets/images/moneyprinterturbo/webui.jpg
 
 WebUI 以 Streamlit 打造，左側是生成設定（主題、語言、畫幅、配音、字幕樣式等），右側為任務進度與成片預覽；另外提供 FastAPI 的 REST API 文件介面，可整併到自動化流程。
 
-![WebUI 介面](/assets/images/moneyprinterturbo/webui.jpg)
+![WebUI 介面](/assets/images/MoneyPrinterTurbo/webui.jpg)
 
-![API 文件介面](/assets/images/moneyprinterturbo/api.jpg)
+![API 文件介面](/assets/images/MoneyPrinterTurbo/api.jpg)
 
 ## 核心工作流程
 
