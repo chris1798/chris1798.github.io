@@ -1,7 +1,7 @@
 ---
 title: "Paperclip 專案解析：開源的「AI 代理商公司」管理控制台"
 date: 2026-11-13
-description: Paperclip 是_paperclipai_開源（MIT）的 AI agent 編排平台——Node.js server + React UI，把 Claude Code、Codex、OpenClaw、Cursor、Gemini CLI、Hermes 等各種 agent 組織成有組織架構、預算、治理與目標對齊的「公司」。本文整理其四大支柱、系統架構、安装方式、生态與適用場景。
+description: Paperclip 是 Paperclip Labs 開源（MIT）的 AI agent 編排平台——Node.js server + React UI，把 Claude Code、Codex、OpenClaw、Cursor、Gemini CLI、Hermes 等各種 agent 組織成有組織架構、預算、治理與目標對齊的「公司」。本文整理其四大支柱、系統架構、安裝方式、生態與適用場景。
 tags: [AI, AI Agents, 代理編排, 開源專案, TypeScript, 工作流自動化, MCP, 專案管理]
 ---
 
