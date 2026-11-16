@@ -1,5 +1,5 @@
 ---
-title: "VitePress vs Quartz vs Docusaurus：三個靜態站 generators 的功能與場景比較"
+title: "VitePress vs Quartz vs Docusaurus：三個靜態站產生器的功能與場景比較"
 date: 2026-11-16
 description: 比較 VitePress（Vue/Vite 系文件站）、Quartz（數位花園筆記站）與 Docusaurus（Meta 維護的多語言文件平台）三個 TypeScript 靜態站產生器：定位、核心功能矩陣、維護模式、建置體驗與適用場景，附選擇決策清單與 2026-11-16 驗證的星數、授權、最新版本數據。
 tags: [VitePress, Quartz, Docusaurus, 靜態網站, 文件站, 數位花園, 比較, TypeScript, 開源專案]
