@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-16-stela-macos-on-pc.md",
+    "assets/images/stela/icon.png",
+    "assets/images/stela",
     "_posts/2026-11-16-crucible-agent-3d-engine.md",
     "assets/images/crucible/colonnade-sheet.jpg",
     "assets/images/crucible/colonnade-cycles.png",
@@ -211,7 +214,6 @@
     "assets/images/plannotator/banner.webp",
     "assets/images/plannotator",
     "assets/images/mujoco/desert.png",
-    "assets/images/mujoco/banner.png",
     "assets/images/mujoco",
     "assets/images/agent-skills",
     "assets/images/sure",
@@ -219,7 +221,6 @@
     "assets/images/agent-browser",
     "assets/images/elephant-goldfish-model",
     "assets/images/openmausbot",
-    "assets/images/sherlock",
     "_posts/2026-11-13-three-live-analysis.md",
     "_posts/2026-11-11-vibevoice-open-source-voice-ai.md",
     "_posts/2026-11-11-moneyprinterturbo-ai-video-generator.md",
@@ -242,7 +243,6 @@
     "_posts/2026-10-26-filee-file-converter-guide.md",
     "_posts/2026-10-27-linkswift-netdisk-direct-link.md",
     "_posts/2026-10-24-github-trending-top10.md",
-    "_posts/2026-10-24-ai-agent-tools-comparison.md",
-    "_posts/2026-10-23-public-apis-complete-guide.md"
+    "_posts/2026-10-24-ai-agent-tools-comparison.md"
   ]
 }
