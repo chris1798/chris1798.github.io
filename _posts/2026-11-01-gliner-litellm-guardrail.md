@@ -5,6 +5,7 @@ description: 把 GLiNER 零樣本 NER 打包成 podman 容器，透過 LiteLLM G
 tags: [LiteLLM, GLiNER, Guardrail, AI安全, PII, Podman, RHEL]
 ---
 
+
 # GLiNER × LiteLLM Guardrail 實戰：繁中機密資料的遮罩、還原與阻擋
 
 公司內部把 LLM 接入 LiteLLM Proxy 之後，一個繞不開的問題是：**員工貼進 prompt 的電話號碼、機台 RECIPE 參數、公司機密文件內容，會原封不動地送到模型端**。這篇文章記錄我在 RHEL 9 + podman 環境，用 GLiNER（零樣本 NER 模型）打造一道「電話自動遮罩、機密內容直接阻擋」的攔截層，並透過 LiteLLM 的 Generic Guardrail API 完整落地的過程——包含所有踩過的坑。
