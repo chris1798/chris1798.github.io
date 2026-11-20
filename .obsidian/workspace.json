@@ -198,6 +198,9 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-20-daily-stock-analysis-deep-dive.md",
+    "assets/images/daily_stock_analysis/market-review.png",
+    "assets/images/daily_stock_analysis/workspace-preview.gif",
     "_posts/2026-11-17-phasyn-studio-self-hosted-ai-film.md",
     "assets/images/phasyn-studio/image-studio.webp",
     "assets/images/phasyn-studio/export-dialog.webp",
@@ -212,8 +215,6 @@
     "_posts/2026-11-16-crucible-agent-3d-engine.md",
     "assets/images/crucible/colonnade-sheet.jpg",
     "assets/images/crucible/colonnade-cycles.png",
-    "assets/images/crucible/cook-pabellon.webp",
-    "assets/images/crucible/cook-monk.webp",
     "assets/images/crucible",
     "_posts/2026-11-16-github-trending-top11.md",
     "assets/images/plannotator",
@@ -242,7 +243,6 @@
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
     "_posts/2199-01-01-future-post.md",
     "_posts/2026-10-25-huggingface-trending-top10.md",
-    "_posts/2026-10-26-filee-file-converter-guide.md",
-    "_posts/2026-10-27-linkswift-netdisk-direct-link.md"
+    "_posts/2026-10-26-filee-file-converter-guide.md"
   ]
 }
