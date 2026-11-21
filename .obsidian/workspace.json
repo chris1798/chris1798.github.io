@@ -198,6 +198,10 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "assets/images/oink/star-history.svg",
+    "assets/images/oink/banner-dark.png",
+    "assets/images/oink/banner-light.png",
+    "assets/images/oink",
     "_posts/2026-11-20-daily-stock-analysis-deep-dive.md",
     "assets/images/daily_stock_analysis/market-review.png",
     "assets/images/daily_stock_analysis/workspace-preview.gif",
@@ -213,8 +217,6 @@
     "assets/images/stela/icon.png",
     "assets/images/stela",
     "_posts/2026-11-16-crucible-agent-3d-engine.md",
-    "assets/images/crucible/colonnade-sheet.jpg",
-    "assets/images/crucible/colonnade-cycles.png",
     "assets/images/crucible",
     "_posts/2026-11-16-github-trending-top11.md",
     "assets/images/plannotator",
@@ -223,7 +225,6 @@
     "assets/images/sure",
     "assets/images/daily_stock_analysis",
     "assets/images/agent-browser",
-    "assets/images/elephant-goldfish-model",
     "_posts/2026-11-13-three-live-analysis.md",
     "_posts/2026-11-11-vibevoice-open-source-voice-ai.md",
     "_posts/2026-11-11-moneyprinterturbo-ai-video-generator.md",
@@ -242,7 +243,6 @@
     "_posts/2026-11-01-gliner-litellm-guardrail.md",
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
     "_posts/2199-01-01-future-post.md",
-    "_posts/2026-10-25-huggingface-trending-top10.md",
-    "_posts/2026-10-26-filee-file-converter-guide.md"
+    "_posts/2026-10-25-huggingface-trending-top10.md"
   ]
 }
