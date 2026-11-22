@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-11-01-gliner-litellm-guardrail.md",
+                "file": "_posts/2026-11-21-oink-software-kvm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-01-gliner-litellm-guardrail"
+              "title": "2026-11-21-oink-software-kvm"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "be4b6d3793226688",
   "lastOpenFiles": [
+    "_posts/2026-11-01-gliner-litellm-guardrail.md",
     "_posts/2026-11-21-oink-software-kvm.md",
     "assets/images/oink/star-history.svg",
     "assets/images/oink/banner-dark.png",
@@ -240,7 +241,6 @@
     "_posts/2026-11-02-agent-desktop-computer-use.md",
     "_posts/2026-11-02-nv-uefi-unlocker.md",
     "_posts/2026-10-28-text-to-cad-v08-features.md",
-    "_posts/2026-11-01-gliner-litellm-guardrail.md",
     "_posts/2026-10-28-claude-seo-plugin-guide.md",
     "_posts/2199-01-01-future-post.md",
     "_posts/2026-10-25-huggingface-trending-top10.md"
